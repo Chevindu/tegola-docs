@@ -16,6 +16,6 @@ updates:
   schedule:
     interval: "daily"
     time: '11:00'
-    timezone: Japan
+    timezone: Asia/Colombo
   commit-message:
     prefix: ci
