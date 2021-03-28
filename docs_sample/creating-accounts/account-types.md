@@ -1,8 +1,8 @@
-# Profile Types
+# Account Types
 
-Tegola provides a platform to showcase the projects and services of companies, professionals and individuals in the Sri Lankan construction industry. Any entity that meets below mentioned requirements are eligible to create and maintain profiles.
+Tegola provides a platform to showcase the projects and services of companies, professionals and individuals in the Sri Lankan construction industry. Any entity that meets below mentioned requirements are eligible to create and maintain accounts.
 
-There are 5 main types of profiles.
+There are 5 main types of accounts.
 
 1. Professional
 2. Company
@@ -12,7 +12,7 @@ There are 5 main types of profiles.
 
 ## Professional
 
-This type is for professional experts who are registered members in a government recognized association. They can create Tegola profiles. The fields that are supported are as follows.
+This type is for professional experts who are registered members in a government recognized association. They can create Tegola accounts. The fields that are supported are as follows.
 Designing and Remodeling
 
 * Architecting
@@ -21,11 +21,11 @@ Designing and Remodeling
 * Civil Engineering
 * Quantity Surveying
 
-Members of Sri Lanka Institute of Architects (SLIA), Sri Lanka Institute of Landscape Architects (SLILA), Sri Lanka Institute of Interior Designers (SLIID), The Institution of Engineers, Sri Lanka (IESL) and Institute of Quantity Surveyors of Sri Lanka (IQSSL) are encouraged to create profiles under this category. However, if you are not a member of any of the aforementioned institutions but have a similar level of expertise and industrial experience, you may create a Professional profile.
+Members of Sri Lanka Institute of Architects (SLIA), Sri Lanka Institute of Landscape Architects (SLILA), Sri Lanka Institute of Interior Designers (SLIID), The Institution of Engineers, Sri Lanka (IESL) and Institute of Quantity Surveyors of Sri Lanka (IQSSL) are encouraged to create accounts under this category. However, if you are not a member of any of the aforementioned institutions but have a similar level of expertise and industrial experience, you may create a Professional account.
 
 ## Company
 
-Any Sri Lanka based company that serves in construction & home industry can create Tegola profiles, given that it provides services under one or more categories listed below.
+Any Sri Lanka based company that serves in construction & home industry can create Tegola accounts, given that it provides services under one or more categories listed below.
 
 ### Designing and Remodeling
 
@@ -652,7 +652,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
 
 ## Individual
 
-Talented individuals who provide construction industry related services fall under this profile type.
+Talented individuals who provide construction industry related services fall under this account type.
 
 ### Designing and Remodeling
 
@@ -942,7 +942,7 @@ Talented individuals who provide construction industry related services fall und
 
 ## Fresh Graduate
 
-Freshly passed out graduates, majored in following fields can create profiles under this profile type.
+Freshly passed out graduates, majored in following fields can create accounts under this account type.
 
 ### Designing and Remodeling
 
@@ -952,7 +952,7 @@ Freshly passed out graduates, majored in following fields can create profiles un
 * Civil Engineering
 * Quantity Surveying
 
-A Fresh Graduate profile is not publicly visible and they can be only accessed by all the Professional accounts and Companies who has created a profile under one or more of following categories.
+A Fresh Graduate account is not publicly visible and they can be only accessed by all the Professional accounts and Companies who has created a account under one or more of following categories.
 
 * Architecting
 * Interior designing
@@ -974,7 +974,7 @@ A Fresh Graduate profile is not publicly visible and they can be only accessed b
 
 ## Undergraduate
 
-Undergraduates who are following a degree awarding course under following fields can create Tegola profiles of this type.
+Undergraduates who are following a degree awarding course under following fields can create Tegola accounts of this type.
 
 * Architecting
 * Interior Designing
@@ -982,7 +982,7 @@ Undergraduates who are following a degree awarding course under following fields
 * Civil Engineering
 * Quantity Surveying
 
-An undergraduate profile is not publicly visible and they can be only accessed by all the Professional accounts and Companies who has created a profile under one or more of followings categories.
+An undergraduate account is not publicly visible and they can be only accessed by all the Professional accounts and Companies who has created a account under one or more of followings categories.
 
 * Architecting
 * Interior designing

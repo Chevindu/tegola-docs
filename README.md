@@ -1,67 +1,36 @@
-<h1 align="center">
-<img src="https://raw.githubusercontent.com/peaceiris/mkdocs-material-boilerplate/master/docs_sample/images/graduate-cap.png" alt="MkDocs icon" width="170">
-<br>MkDocs Material<br>Boilerplate - Starter Kit
+<h1 style="text-align: center;">
+<br>Tegola.lk<br>Complete User Guide
 </h1>
 
-![Eyecatch image of MkDocs Material Boilerplate (Starter Kit)](https://raw.githubusercontent.com/peaceiris/mkdocs-material-boilerplate/master/docs_sample/images/material.png)
+Tegola.lk is an online platform ventured and run by Sri Lankans. We bring construction service providers and seekers into one stage so both the parties can save time, evaluate market prices and pick the best service provider). Aim of this initiative is to regulate the communications in the construction industry by building a virtual society that everyone can be benefited from.
 
+## Our mission
 
+We create an maintain a smart, simple and attractive web platform which enables all the professionals, companies, individuals, fresh graduates and undergraduates who relates to construction industry to create profiles giving exposure to their talent and creativity.
 
-[![license](https://img.shields.io/github/license/peaceiris/mkdocs-material-boilerplate.svg)](https://github.com/peaceiris/mkdocs-material-boilerplate/blob/master/LICENSE)
-[![release](https://img.shields.io/github/release/peaceiris/mkdocs-material-boilerplate.svg)](https://github.com/peaceiris/mkdocs-material-boilerplate/releases/latest)
-[![GitHub release date](https://img.shields.io/github/release-date/peaceiris/mkdocs-material-boilerplate.svg)](https://github.com/peaceiris/mkdocs-material-boilerplate/releases)
-[![GitHub Actions status](https://github.com/peaceiris/mkdocs-material-boilerplate/workflows/github%20pages/badge.svg)](https://github.com/peaceiris/mkdocs-material-boilerplate/actions)
+## Our vision
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9c95ccf4-5c1e-447b-8025-dd0b6f8764a5/deploy-status)](https://app.netlify.com/sites/mkdocs-material/deploys)
-[![Docker Hub Build Status](https://img.shields.io/docker/cloud/build/peaceiris/mkdocs-material.svg)](https://hub.docker.com/r/peaceiris/mkdocs-material)
+To establish a virtual society for the construction industry, bringing all the physical interactions between the industry and it’s potential customers and also the within the industry itself, into a virtual platform making the communication more easier.
 
-<!-- https://shields.io/ -->
+## What we do
 
+We enable:
 
+- Professionals and companies in the industry to showcase their projects & services in one place.
+- Professionals to hire an apprentice and outsource design and modeling work.
+- Individuals (eg: masons, carpenters) to publicize their services.
+- Fresh graduates and undergraduates to connect with the industry, and to accept projects from professionals to strengthen their industry exposure.
 
-## Details
+Anyone who seeks for a construction industry related service is benefited by the content in the platform. Anyone who maintains an active profile is benefited by visitors and clients they meet via the platform.
 
-Read more 👉 [Documentation - MkDocs Material Boilerplate]
+We bring our services under three main categories:
 
-[Documentation - MkDocs Material Boilerplate]: https://peaceiris.github.io/mkdocs-material-boilerplate/
+1. Design and Remodeling
+2. Home Improvement
+3. Home Services
 
+Design and Remodeling category includes all the services you will need to design and construct a new building.
 
+Home Improvement section includes services which will help you to improve your home, office, restaurant or any other place.
 
-## Quick start
-
-```sh
-git clone https://github.com/peaceiris/mkdocs-material-boilerplate.git
-cd mkdocs-material-boilerplate
-pipenv sync --dev
-pipenv shell
-inv serve --config-file mkdocs-sample.yml
-```
-
-
-
-## Links
-
-- [mkdocs/mkdocs: Project documentation with Markdown - GitHub]
-- [squidfunk/mkdocs-material: A Material Design theme for MkDocs]
-
-[mkdocs/mkdocs: Project documentation with Markdown - GitHub]: https://github.com/mkdocs/mkdocs/
-[squidfunk/mkdocs-material: A Material Design theme for MkDocs]: https://github.com/squidfunk/mkdocs-material
-
-
-
-## License
-
-- [MIT License]
-- [The graduate cap icon] made by [Freepik] from [www.flaticon.com] is licensed by [CC 3.0 BY]
-
-[MIT License]: https://github.com/peaceiris/mkdocs-material-boilerplate/blob/master/LICENSE
-[The graduate cap icon]: https://www.flaticon.com/free-icon/graduate-cap_62627
-[Freepik]: https://www.freepik.com/
-[www.flaticon.com]: https://www.flaticon.com/
-[CC 3.0 BY]: http://creativecommons.org/licenses/by/3.0/
-
-
-
-## About Maintainer
-
-- [peaceiris Homepage](https://peaceiris.com/)
+Home Services category includes services provided by individuals such as carpenters, masons, technicians etc.

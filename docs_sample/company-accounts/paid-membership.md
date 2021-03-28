@@ -1,6 +1,6 @@
 # Why should I get a paid membership?
 
-Yes, to create and maintain a good profile in Tegola you need to have a paid membership. But why?
+Yes, to create and maintain a Company Account in Tegola you need to have a paid membership. But why?
 
 Unlike other industries, in construction industry we believe that almost of all the services are once for lifetime services. In other words we don't frequently get those services but occasionally. As an example if we publish a social media post about new fashion styles and boost it to get more reach absolutely you'll have potential buyers. people tends to buy it just because of their looks and they are simply affordable.
 
@@ -14,6 +14,7 @@ As a wise man once said,
 
 !!! quote ""
     If you want to understand how a lion hunts, don’t go to the zoo. Go to the jungle.
+    
     ~ Jim Stengel
 
 [Our Plans](https://tegola.lk/company-pricing)

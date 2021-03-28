@@ -54,25 +54,26 @@ extra:
   manifest: 'manifest.json'
   social:
     - icon: 'fontawesome/brands/github-alt'
-      link: 'https://github.com/peaceiris'
+      link: 'https://github.com/heavenz'
     - icon: 'fontawesome/brands/twitter'
-      link: 'https://twitter.com/piris314en'
+      link: 'https://twitter.com/HeavenzLK'
 
 # Page tree
 nav:
-  - 'About': 'about.md'
   - 'How Tegola Works': 'how-tegola-works.md'
   - 'Growing With Tegola': 'growing-with-tegola.md'
   - 'FAQ': 'frequently-asked-questions.md'
-  - 'Profile Creation':
-    - 'Profile Types': 'profile-creation/profile-types.md'
-    - 'Professional': 'profile-creation/professional.md'
-    - 'Company': 'profile-creation/company.md'
-    - 'Individual': 'profile-creation/individual.md'
-    - 'Fresh Graduate': 'profile-creation/fresh-graduate.md'
-    - 'Undergraduate': 'profile-creation/undergraduate.md'
+  - 'Creating Accounts':
+    - 'Account Types': 'creating-accounts/account-types.md'
+    - 'Create Professional Accounts': 'creating-accounts/professional.md'
+    - 'Create Company Accounts': 'creating-accounts/company.md'
+    - 'Create Individual Accounts': 'creating-accounts/individual.md'
+    - 'Create Fresh Graduate Accounts': 'creating-accounts/fresh-graduate.md'
+    - 'Create Undergraduate Accounts': 'creating-accounts/undergraduate.md'
+  - 'Completing Profiles':
+    - 'Features': 'completing-profiles/features.md'
   - 'Search Results':
     - 'Find a match': 'search-results/find-a-match.md'
-  - 'Paid Accounts':
-    - 'Paid Membership': 'paid-accounts/paid-membership.md'
-    - 'Features': 'paid-accounts/features.md'
+  - 'Company Accounts':
+    - 'Paid Membership': 'company-accounts/paid-membership.md'
+    - 'Features': 'company-accounts/features.md'
