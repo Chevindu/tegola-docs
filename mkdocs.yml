@@ -33,6 +33,7 @@ markdown_extensions:
   - admonition
   - codehilite
   - footnotes
+  - attr_list
   - mdx_math:
       enable_dollar_delimiter: true
   - toc:
