@@ -1,0 +1,78 @@
+# Project information
+site_name: 'Tegola User Guide'
+site_description: 'MkDocs Material Boilerplate (Starter Kit) - Deploy documentation to hosting platforms (Netlify, GitHub Pages, GitLab Pages, and AWS Amplify Console) with Docker, pipenv, and GitHub Actions.'
+site_author: 'peaceiris'
+site_url: 'https://docs.tegola.lk/'
+
+# Copyright
+copyright: '&copy; 2021 Heavenz Technologies'
+
+# Configuration
+docs_dir: 'docs_sample'
+theme:
+  name: 'material'
+  language: 'en'
+  shortcuts:
+    help: 191    # ?
+    next: 78     # n
+    previous: 80 # p
+    search: 83   # s
+  palette:
+    scheme: 'preference'
+  features:
+    - navigation.tabs
+    - tabs
+  #font:
+    #text: 'Ubuntu'
+    #code: 'Ubuntu Mono'
+  logo: 'images/logo.svg'
+  favicon: 'assets/images/favicon.ico'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - mdx_math:
+      enable_dollar_delimiter: true
+  - toc:
+      permalink: true
+      separator: '_'
+
+plugins:
+  - search:
+      separator: '[\s\-\.]+'
+      lang:
+        - en
+
+# Customization
+extra_javascript:
+  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-MML-AM_CHTML'
+extra_css:
+  - 'assets/css/custom.css'
+extra:
+  manifest: 'manifest.json'
+  social:
+    - icon: 'fontawesome/brands/github-alt'
+      link: 'https://github.com/peaceiris'
+    - icon: 'fontawesome/brands/twitter'
+      link: 'https://twitter.com/piris314en'
+
+# Page tree
+nav:
+  - 'About': 'about.md'
+  - 'How Tegola Works': 'how-tegola-works.md'
+  - 'Growing With Tegola': 'growing-with-tegola.md'
+  - 'FAQ': 'frequently-asked-questions.md'
+  - 'Profile Creation':
+    - 'Profile Types': 'profile-creation/profile-types.md'
+    - 'Professional': 'profile-creation/professional.md'
+    - 'Company': 'profile-creation/company.md'
+    - 'Individual': 'profile-creation/individual.md'
+    - 'Fresh Graduate': 'profile-creation/fresh-graduate.md'
+    - 'Undergraduate': 'profile-creation/undergraduate.md'
+  - 'Search Results':
+    - 'Find a match': 'search-results/find-a-match.md'
+  - 'Paid Accounts':
+    - 'Paid Membership': 'paid-accounts/paid-membership.md'
+    - 'Features': 'paid-accounts/features.md'
