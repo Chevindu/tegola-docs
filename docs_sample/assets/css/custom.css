@@ -26,3 +26,41 @@ h3 {
     padding: 0rem 0rem 0.5rem 0.5rem !important;
     border-left: solid 2px rgb(70, 150, 236);
 }
+
+.md-typeset h1:target::before, .md-typeset h2:target::before, .md-typeset h3:target::before {
+    padding-top: 5px;
+}
+
+#collapsible-ul, #collapsible-ul ul {
+    list-style-type: none;
+}
+
+#collapsible-ul {
+    margin: 0;
+    padding: 0;
+}
+
+.caret {
+    cursor: pointer;
+    user-select: none;
+}
+
+.caret::before {
+    content: "\25B6";
+    color: var(--md-default-fg-color--light);
+    display: inline-block;
+    margin-right: 6px;
+    scale: 0.5;
+}
+
+.caret-down::before {
+    transform: rotate(90deg);
+}
+
+#collapsible-ul .nested {
+    display: none;
+}
+
+#collapsible-ul .nested.active {
+    display: block;
+}

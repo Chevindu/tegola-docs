@@ -528,7 +528,6 @@ Any Sri Lanka based company that serves in construction & home industry can crea
     - Commercial Pest Control
     - Pest Audits
 
-
 ### Home Services
 
 * Air conditioning repair
@@ -649,7 +648,6 @@ Any Sri Lanka based company that serves in construction & home industry can crea
     - Decorative metal plates
     - Custom metal interior products
 
-
 ## Individual
 
 Talented individuals who provide construction industry related services fall under this account type.
@@ -658,10 +656,12 @@ Talented individuals who provide construction industry related services fall und
 
 * Design & build
     - Design & build
+
      - Residences (Houses)
 
 * Construction
     - Building construction
+
      - Residences (Houses)
 
 * Kitchen & Bath
@@ -688,6 +688,7 @@ Talented individuals who provide construction industry related services fall und
 * Swimming Pool
     - Water Proofing Works
     - Maintenance of swimming pools
+
      - Pool cleaning
      - Poor repair
      - Pool Equipment Maintenance
@@ -710,127 +711,209 @@ Talented individuals who provide construction industry related services fall und
 
 ### Home Improvement
 
-* Cupboards, Cabinets & Pantry
-    - Wooden pantries
-    - Aluminium pantries
-    - Stainless steel pantries
+<ul id="collapsible-ul">
+  <li><span class="caret">Cupboards, Cabinets & Pantry</span>
 
-* Wall & coverings
-    - Decorative painting
-    - Dry wall installation
-    - Dry wall repair
-    - Dry wall texturing
-    - Faux painting
-    - Exterior painting
-    - Wall mural
-    - Wallpapers
-    - Wall arts
-    - wall sculpture
-    - Wall décor
+    <ul class="nested">
+      <li>Wooden pantries</li>
+      <li>Aluminium pantries</li>
+      <li>Stainless steel pantries</li>
+    </ul>
 
-* Cushion Cover
-    - Custom cusion cover designs
-    - Handloom cushion covers
-    - Cross-strich cushion covers
-    - Handccrafted cushion covers
-    - Embroidered cushion covers
-    - Custom sofa pillow covers
+  </li>
+</ul>
 
-* Window & blinds
-    - Custom window designs
-    - Custom wooden windows
-    - Custom Aluminium windows
-    - Custom steel windows
-    - Window canopies
-    - Window films
-    - Window blinds
-        - Remote controled blinds
-        - Vertical Blinds
-        - Venetian Blinds
-        - Roller Blinds
-        - Remote controled blinds
-        - Roman Blinds
-        - Wooden Blinds
-        - Sunscreen Roller shades
-        - Pleated Blinds
-        - Silhouette blinds
-        - Monsoon blinds
-    - Sliding windows
-    - Casement windows
+ <ul id="collapsible-ul">
+  <li><span class="caret">Wall & coverings</span>
 
-* Exterior Cladding
-    - Wood cladding
-    - Vinyl cladding
-    - Metal cladding
-    - Brick cladding
-    - Stone cladding
-    - Fiber Cement
-    - Engineered Wood cladding
-    - Insulated cladding
-    - Concrete cladding
-    - Aluminium cladding
-    - Stucco
-    - Steel Log Siding
-    - Decorative cladding boards
-    - Screenwood External Systems
+    <ul class="nested">
+      <li>Decorative painting</li>
+      <li>Dry wall installation</li>
+      <li>Dry wall repair</li>
+      <li>Dry wall texturing</li>
+      <li>Faux painting</li>
+      <li>Exterior painting</li>
+      <li>Wall mural</li>
+      <li>Wallpapers</li>
+      <li>Wall arts</li>
+      <li>Wall sculpture</li>
+      <li>Wall décor</li>
+    </ul>
 
-* Interior Cladding
-    - Decorative acoustic panelling solutions
-    - Decorative plywood
-    - Engineered timber cladding
-    - Wood wall cladding
-    - Interior stone wall cladding
-    - Decorative wall cladding
-    - Other wall cladding methods
+  </li>
+</ul>
 
-* Curtains & Drapes
-    - Custom curtain designs
-    - PVC strip curtains
-    - Grommet Curtains(Eyelet)
-    - Sheer Curtains
-    - Rod Pocket Curtains
-    - Tab Top Curtains
-    - Pleated Drapes
-    - Pelmets and Valances
-    - Window Scarf
-    - Cafe Curtains
+ <ul id="collapsible-ul">
+  <li><span class="caret">Cushion Cover</span>
 
-* Roofing, Ceiling & Gutters
-    - Roofing
-    - Ceiling
-    - Gutters
-    - Crown molding
+    <ul class="nested">
+      <li>Custom cusion cover designs</li>
+      <li>Handloom cushion covers</li>
+      <li>Cross-strich cushion covers</li>
+      <li>Handccrafted cushion covers</li>
+      <li>Embroidered cushion covers</li>
+      <li>Custom sofa pillow covers</li>
+    </ul>
 
-* Gate & Fence
-    - Swing gates
-    - Sliding gates
-    - Railings
-    - Custom gates
+  </li>
+</ul>
 
-* Staircase & Handrails
-    - Wooden handrails
-    - Wooden stair case
-    - Steel handrails
-    - Steel stair case
-    - Alluminium handrails
-    - Balcony designs
-    - Stair case designs
+ <ul id="collapsible-ul">
+  <li><span class="caret">Window & blinds</span>
 
-* Furniture
-    - Bedroom furnitures
-    - Children furnitures
-    - Living room furnitures
-    - Outdoor furnitures
-    - Wall cupboards
-    - Custom furniture manufacturing
-    - Furniture repair
-        - Sofa repairing
-        - Kawichchi repairing
-        - Recushioning
-        - Office furniture repair
-        - Wood furniture repair
-        - Furniture Assembly
-        - Other furniture repair services
+    <ul class="nested">
+      <li>Custom window designs</li>
+      <li>Custom wooden windows</li>
+      <li>Custom Aluminium windows</li>
+      <li>Custom steel windows</li>
+      <li>Window canopies</li>
+      <li>Window films</li>
+      <li><span class="caret">Window blinds</span>
+        <ul class="nested">
+          <li>Remote controled blinds</li>
+          <li>Vertical Blinds</li>
+          <li>Venetian Blinds</li>
+          <li>Roller Blinds</li>
+          <li>Roman Blinds</li>
+          <li>Wooden Blinds</li>
+          <li>Sunscreen Roller shades</li>
+          <li>Pleated Blinds</li>
+          <li>Silhouette blinds</li>
+          <li>Monsoon blinds</li>
+        </ul>
+      </li>
+    <li>Sliding windows</li>
+      <li>Casement windows</li>
+    </ul>
+
+  </li>
+</ul>
+
+ <ul id="collapsible-ul">
+  <li><span class="caret">Exterior Cladding</span>
+
+    <ul class="nested">
+      <li>Wood cladding</li>
+      <li>Vinyl cladding</li>
+      <li>Metal cladding</li>
+      <li>Brick cladding</li>
+      <li>Stone cladding</li>
+      <li>Fiber Cement</li>
+      <li>Engineered Wood cladding</li>
+      <li>Insulated cladding</li>
+      <li>Concrete cladding</li>
+      <li>Aluminium cladding</li>
+      <li>Stucco</li>
+      <li>Steel Log Siding</li>
+      <li>Decorative cladding boards</li>
+      <li>Screenwood External Systems</li>
+    </ul>
+
+  </li>
+</ul>
+
+ <ul id="collapsible-ul">
+  <li><span class="caret">Interior Cladding</span>
+
+    <ul class="nested">
+      <li>Decorative acoustic panelling solutions</li>
+      <li>Decorative plywood</li>
+      <li>Engineered timber cladding</li>
+      <li>Wood wall cladding</li>
+      <li>Interior stone wall cladding</li>
+      <li>Decorative wall cladding</li>
+      <li>Other wall cladding methods</li>
+    </ul>
+
+  </li>
+</ul>
+
+ <ul id="collapsible-ul">
+  <li><span class="caret">Curtains & Drapes</span>
+
+    <ul class="nested">
+      <li>Custom curtain designs</li>
+      <li>PVC strip curtains</li>
+      <li>Grommet Curtains (Eyelet)</li>
+      <li>Sheer Curtains</li>
+      <li>Rod Pocket Curtains</li>
+      <li>Tab Top Curtains</li>
+      <li>Pleated Drapes</li>
+      <li>Pelmets and Valances</li>
+      <li>Window Scarf</li>
+      <li>Cafe Curtains</li>
+    </ul>
+
+  </li>
+</ul>
+
+ <ul id="collapsible-ul">
+  <li><span class="caret">Roofing, Ceiling & Gutters</span>
+
+    <ul class="nested">
+      <li>Roofing</li>
+      <li>Ceiling</li>
+      <li>Gutters</li>
+      <li>Crown molding</li>
+    </ul>
+
+  </li>
+</ul> 
+
+ <ul id="collapsible-ul">
+  <li><span class="caret">Gate & Fence</span>
+
+    <ul class="nested">
+      <li>Swing gates</li>
+      <li>Sliding gates</li>
+      <li>Railings</li>
+      <li>Custom gates</li>
+    </ul>
+
+  </li>
+</ul>
+
+ <ul id="collapsible-ul">
+  <li><span class="caret">Staircase & Handrails</span>
+
+    <ul class="nested">
+      <li>Wooden handrails</li>
+      <li>Wooden stair case</li>
+      <li>Steel handrails</li>
+      <li>Steel stair case</li>
+      <li>Aluminum handrails</li>
+      <li>Balcony designs</li>
+      <li>Stair case designs</li>
+    </ul>
+
+  </li>
+</ul>
+
+ <ul id="collapsible-ul">
+  <li><span class="caret">Furniture</span>
+
+    <ul class="nested">
+      <li>Bedroom furnitures</li>
+      <li>Children furnitures</li>
+      <li>Living room furnitures</li>
+      <li>Outdoor furnitures</li>
+      <li>Wall cupboards</li>
+      <li>Custom furniture manufacturing</li>
+      <li><span class="caret">Furniture repair</span>
+        <ul class="nested">
+          <li>Sofa repairing</li>
+          <li>Kawichchi repairing</li>
+          <li>Recushioning</li>
+          <li>Office furniture repair</li>
+          <li>Wood furniture repair</li>
+          <li>Furniture Assembly</li>
+          <li>Other furniture repair services</li>
+        </ul>
+      </li>
+    </ul>
+
+  </li>
+</ul>
 
 ### Home Services
 
