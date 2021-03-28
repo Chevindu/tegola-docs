@@ -43,10 +43,12 @@ To add, remove or edit qualifications, click on the edit icon at the top right c
 
 The maximum number of qualifications allowed to add depends on the account type.
 
-Professional accounts        : 15
-Individual accounts         :   8
-Fresh graduate accounts    : 10
-Undergraduate accounts    : 10
+| Account Type  | Qualifications |
+| ------------- | -------------: |
+| Professional  | 15 |
+| Individual    | 8 |
+| Fresh Graduate  | 10 |
+| Undergraduate   | 10 |
 
 # Certifications
 
@@ -64,10 +66,13 @@ To add awards, click on the edit icon at the top right corner of the â€œAwardsâ€
 
 Maximum number of awards allowed for an account depends on the account type.
 
-Professional accounts        : 25 awards
-Company accounts         : Depend on the Plan
-Individual accounts         :  8 awards
-Fresh graduate accounts    : 10 awards
+
+| Account Type    | Awards |
+| --------------- | -----: |
+| Professional    | 25 |
+| Company         | Depends on [Account Plan](https://tegola.lk/company-pricing) |
+| Individual      | 8 |
+| Fresh Graduate  | 10 |
 
 # Overview
 
