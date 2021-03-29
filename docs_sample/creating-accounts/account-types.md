@@ -538,115 +538,202 @@ Any Sri Lanka based company that serves in construction & home industry can crea
 
 * TV repair
 
-* Electricals repair
-    - Oven
-    - Iron
-    - Electric water boilers
-    - Blenders
+<ul id="collapsible-ul">
+  <li><span class="caret">Electricals repair</span>
 
-* Electrical services
-    - Residential electrical services
-    - Commercial electrical services
-    - Home electrical wiring
-    - Distribution board installation
-    - Indoor & outdoor lighting
-    - Electrical replacements and repair
-    - 3 Phase conversions
-    - Trouble Shooting Electrical Leakage
-    - Consulting services
-    - Regular Maintenance services
+    <ul class="nested">
+        <li>Oven</li>
+        <li>Iron</li>
+        <li>Electric water boilers</li>
+        <li>Blenders</li>
 
-* Garden & Lawn care
-    - Garden maintenance
-    - Lawn Mowing
-    - Sod Installation and Fertilizing
-    - Weed Control
-    - Tree & Hedge trimming
-    - Pruning
-    - Garden Cleaning
-    - Planting
+    </ul>
 
-* Movers
-    - Van
-    - Cab
-    - Lorry
-    - Containers
-    - Prime movers
-    - Trailers
-    - Pullers
-    - Cranes
-    - Logistic Solution providers
+  </li>
+</ul>
 
-* Painting services
-    - Commercial Painting Services
-    - Residential Painting Services
-    - Interior painting
-    - Exterior painting
-    - Floor painting
-    - Deck & Fence painting
-    - Eco-friendly painting
-    - Pressure washing
+<ul id="collapsible-ul">
+  <li><span class="caret">Electrical services</span>
+
+    <ul class="nested">
+        <li>Residential electrical services</li>
+        <li>Commercial electrical services</li>
+        <li>Home electrical wiring</li>
+        <li>Distribution board installation</li>
+        <li>Indoor & outdoor lighting</li>
+        <li>Electrical replacements and repair</li>
+        <li>3 Phase conversions</li>
+        <li>Trouble Shooting Electrical Leakage</li>
+        <li>Consulting services</li>
+        <li>Regular Maintenance services</li>
+
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Garden & Lawn care</span>
+
+    <ul class="nested">
+        <li>Garden maintenance</li>
+        <li>Lawn Mowing</li>
+        <li>Sod Installation and Fertilizing</li>
+        <li>Weed Control</li>
+        <li>Tree & Hedge trimming</li>
+        <li>Pruning</li>
+        <li>Garden Cleaning</li>
+        <li>Planting</li>
+
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Movers</span>
+
+    <ul class="nested">
+        <li>Van</li>
+        <li>Cab</li>
+        <li>Lorry</li>
+        <li>Containers</li>
+        <li>Prime movers</li>
+        <li>Trailers</li>
+        <li>Pullers</li>
+        <li>Cranes</li>
+        <li>Logistic Solution providers</li>
+
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Painting services</span>
+
+    <ul class="nested">
+        <li>Commercial Painting Services</li>
+        <li>Residential Painting Services</li>
+        <li>Interior painting</li>
+        <li>Exterior painting</li>
+        <li>Floor painting</li>
+        <li>Deck & Fence painting</li>
+        <li>Eco-friendly painting</li>
+        <li>Pressure washing</li>
+
+    </ul>
+
+  </li>
+</ul>
 
 * Wall crack solutions
 
 * Masonry
 
-* Water Proofing
-    - Floor coating
-    - Protective coatings
-    - Underwater coatingss
-    - Basement Waterproofing
-    - Damp Proofing - Rising Dampness
-    - Waterproofing – Terraces
-    - Waterproofing - Bathrooms
-    - Joint Sealing & Grouting
-    - Slab Waterproofing
-    - Swimming Pool Waterproofing
-    - Wall Waterproofing
-    - Rooftop Waterproofing
-    - Kitchen Waterproofing
-    - Water Tank Waterproofing
+<ul id="collapsible-ul">
+  <li><span class="caret">Water Proofing</span>
 
-* Carpentry & Joinery
-    - General carpentry services
-        - Different wood types
-            - Teak
-            - Mahogany
-            - Burutha
-            - Kumbuk
-            - Nedun
-            - Kolon
-            - Jak
-            - Halmilla
-            - Kaluwara (Ebony)
-            - Lunu-Midella
-    - Woodworking
-    - Wood staining
-    - Wood rot replacement
+    <ul class="nested">
+        <li>Floor coating</li>
+        <li>Protective coatings</li>
+        <li>Underwater coatingss</li>
+        <li>Basement Waterproofing</li>
+        <li>Damp Proofing - Rising Dampness</li>
+        <li>Waterproofing – Terraces</li>
+        <li>Waterproofing - Bathrooms</li>
+        <li>Joint Sealing & Grouting</li>
+        <li>Slab Waterproofing</li>
+        <li>Swimming Pool Waterproofing</li>
+        <li>Wall Waterproofing</li>
+        <li>Rooftop Waterproofing</li>
+        <li>Kitchen Waterproofing</li>
+        <li>Water Tank Waterproofing</li>
 
-* Plumbing & Drainage
-    - Plumbing Repair And Installation Services
-    - Toilet Repair And Installation
-    - Kitchen Plumbing
-    - Bathroom Plumbing
-    - Drain & Sewer Services
-    - Leak Detection
-    - Hot & Cold Water Supply Systems
+    </ul>
 
-* Aluminium & Finishes
-    - Sky lights
-    - Partitions
-    - Curtain Walls
-    - Architectural applications
-    - Other aluminium works
+  </li>
+</ul>
 
-* Light Metal Work
-    - Custom designs
-    - Light metal fabrication
-    - Sheet metal fabrication
-    - Metal cutting
-    - Decorative metal plates
-    - Custom metal interior products
+<ul id="collapsible-ul">
+  <li><span class="caret">Carpentry & Joinery</span>
+
+    <ul class="nested">
+        <li><span class="caret">General carpentry services</span>
+            <ul class="nested">
+                <li><span class="caret">Different wood types</span>
+                    <ul class="nested">
+                        <li>Teak</li>
+                        <li>Mahogany</li>
+                        <li>Burutha</li>
+                        <li>Kumbuk</li>
+                        <li>Nedun</li>
+                        <li>Kolon</li>
+                        <li>Jak</li>
+                        <li>Halmilla</li>
+                        <li>Kaluwara (Ebony)</li>
+                        <li>Lunu-Midella</li>
+                    </ul>
+                </li>
+                
+            </ul>
+        </li>
+        <li>Woodworking</li>
+        <li>Wood staining</li>
+        <li>Wood rot replacement</li>
+
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Plumbing & Drainage</span>
+
+    <ul class="nested">
+        <li>Plumbing Repair And Installation Services</li>
+        <li>Toilet Repair And Installation</li>
+        <li>Kitchen Plumbing</li>
+        <li>Bathroom Plumbing</li>
+        <li>Drain & Sewer Services</li>
+        <li>Leak Detection</li>
+        <li>Hot & Cold Water Supply Systems</li>
+
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Aluminium & Finishes</span>
+
+    <ul class="nested">
+        <li>Sky lights</li>
+        <li>Partitions</li>
+        <li>Curtain Walls</li>
+        <li>Architectural applications</li>
+        <li>Other aluminium works</li>
+
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Light Metal Work</span>
+
+    <ul class="nested">
+        <li>Custom designs</li>
+        <li>Light metal fabrication</li>
+        <li>Sheet metal fabrication</li>
+        <li>Metal cutting</li>
+        <li>Decorative metal plates</li>
+        <li>Custom metal interior products</li>
+
+    </ul>
+
+  </li>
+</ul>
 
 ## Individual
 
@@ -654,60 +741,122 @@ Talented individuals who provide construction industry related services fall und
 
 ### Designing and Remodeling
 
-* Design & build
-    - Design & build
+<ul id="collapsible-ul">
+  <li><span class="caret">Design & build</span>
 
-     - Residences (Houses)
+    <ul class="nested">
+        <li>Design & build</li>
+        <li>Residences (Houses)</li>
 
-* Construction
-    - Building construction
+    </ul>
 
-     - Residences (Houses)
+  </li>
+</ul>
 
-* Kitchen & Bath
-    - Kitchen constructing
-    - Bathroom constructing
-    - Kitchen repair services
-        - Cabinet repair
-        - Countertop repair
-        - Faucet repair & installation
-        - Sink installation and repair
-    - Bathroom repair services
-        - Toilet repair
-        - Tile installation & repairs
-        - Minor plumbing leaks
-        - Other bathroom repair services
+<ul id="collapsible-ul">
+  <li><span class="caret">Construction</span>
 
-* Landscaping
-    - Water fountains
-    - Wall stones/ cladding
-    - Paving
-    - Dog kennels
-    - Garden maintenance
+    <ul class="nested">
+        <li>Building construction</li>
+        <li>Residences (Houses)</li>
 
-* Swimming Pool
-    - Water Proofing Works
-    - Maintenance of swimming pools
+    </ul>
 
-     - Pool cleaning
-     - Poor repair
-     - Pool Equipment Maintenance
+  </li>
+</ul>
 
-* 3D Modeling & 3D Visualizations
-    - 3D Still images
-    - 3D Panorama
-    - 3D Rendering
-    - 3D Modeling
+<ul id="collapsible-ul">
+  <li><span class="caret">Kitchen & Bath</span>
 
-* CAD Drafting
-    - 3D CAD drawing
-    - 2D CAD drawing
-    - CAD drawings of architectural designs
-    - CAD drawings of Mechanical works
-    - CAD drawings of Electrical works
-    - CAD drawings of Plumbing works
-    - CAD drawings of furniture products
-    - Full construction drawing set preparation
+    <ul class="nested">
+        <li>Kitchen constructing</li>
+        <li>Bathroom constructing</li>
+        <li><span class="caret">Kitchen repair services</span>
+            <ul class="nested">
+                <li>Cabinet repair</li>
+                <li>Countertop repair</li>
+                <li>Faucet repair & installation</li>
+                <li>Sink installation and repair</li>
+            </ul>
+        </li>
+        <li><span class="caret">Bathroom repair services</span>
+            <ul class="nested">
+                <li>Toilet repair</li>
+                <li>Tile installation & repairs</li>
+                <li>Minor plumbing leaks</li>
+                <li>Other bathroom repair services</li>
+            </ul>
+        </li>
+
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Landscaping</span>
+
+    <ul class="nested">
+        <li>Water fountains</li>
+        <li>Wall stones/ cladding</li>
+        <li>Paving</li>
+        <li>Dog kennels</li>
+        <li>Garden maintenance</li>
+
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Swimming Pool</span>
+
+    <ul class="nested">
+        <li>Water Proofing Works</li>
+        <li><span class="caret">Maintenance of swimming pools</span>
+            <ul class="nested">
+                <li>Pool cleaning</li>
+                <li>Poor repair</li>
+                <li>Pool Equipment Maintenance</li>
+            </ul>
+        </li>
+
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">3D Modeling & 3D Visualizations</span>
+
+    <ul class="nested">
+        <li>3D Still images</li>
+        <li>3D Panorama</li>
+        <li>3D Rendering</li>
+        <li>3D Modeling</li>
+
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">CAD Drafting</span>
+
+    <ul class="nested">
+        <li>3D CAD drawing</li>
+        <li>2D CAD drawing</li>
+        <li>CAD drawings of architectural designs</li>
+        <li>CAD drawings of Mechanical works</li>
+        <li>CAD drawings of Electrical works</li>
+        <li>CAD drawings of Plumbing works</li>
+        <li>CAD drawings of furniture products</li>
+        <li>Full construction drawing set preparation</li>
+
+    </ul>
+
+  </li>
+</ul>
 
 ### Home Improvement
 
@@ -718,6 +867,7 @@ Talented individuals who provide construction industry related services fall und
       <li>Wooden pantries</li>
       <li>Aluminium pantries</li>
       <li>Stainless steel pantries</li>
+
     </ul>
 
   </li>
@@ -738,6 +888,7 @@ Talented individuals who provide construction industry related services fall und
       <li>Wall arts</li>
       <li>Wall sculpture</li>
       <li>Wall décor</li>
+
     </ul>
 
   </li>
@@ -753,6 +904,7 @@ Talented individuals who provide construction industry related services fall und
       <li>Handccrafted cushion covers</li>
       <li>Embroidered cushion covers</li>
       <li>Custom sofa pillow covers</li>
+
     </ul>
 
   </li>
@@ -784,6 +936,7 @@ Talented individuals who provide construction industry related services fall und
       </li>
     <li>Sliding windows</li>
       <li>Casement windows</li>
+
     </ul>
 
   </li>
@@ -807,6 +960,7 @@ Talented individuals who provide construction industry related services fall und
       <li>Steel Log Siding</li>
       <li>Decorative cladding boards</li>
       <li>Screenwood External Systems</li>
+
     </ul>
 
   </li>
@@ -823,6 +977,7 @@ Talented individuals who provide construction industry related services fall und
       <li>Interior stone wall cladding</li>
       <li>Decorative wall cladding</li>
       <li>Other wall cladding methods</li>
+
     </ul>
 
   </li>
@@ -842,6 +997,7 @@ Talented individuals who provide construction industry related services fall und
       <li>Pelmets and Valances</li>
       <li>Window Scarf</li>
       <li>Cafe Curtains</li>
+
     </ul>
 
   </li>
@@ -855,6 +1011,7 @@ Talented individuals who provide construction industry related services fall und
       <li>Ceiling</li>
       <li>Gutters</li>
       <li>Crown molding</li>
+
     </ul>
 
   </li>
@@ -868,6 +1025,7 @@ Talented individuals who provide construction industry related services fall und
       <li>Sliding gates</li>
       <li>Railings</li>
       <li>Custom gates</li>
+
     </ul>
 
   </li>
@@ -884,6 +1042,7 @@ Talented individuals who provide construction industry related services fall und
       <li>Aluminum handrails</li>
       <li>Balcony designs</li>
       <li>Stair case designs</li>
+
     </ul>
 
   </li>
@@ -910,6 +1069,7 @@ Talented individuals who provide construction industry related services fall und
           <li>Other furniture repair services</li>
         </ul>
       </li>
+
     </ul>
 
   </li>
