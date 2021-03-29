@@ -29,504 +29,780 @@ Any Sri Lanka based company that serves in construction & home industry can crea
 
 ### Designing and Remodeling
 
-* Architecting
-    - Architectural design
-    - House Plans & House Designs
-    - Commercial projects
-    - Applying for planning permission
-    - Project supervisor design process
-    - Administrating the building contract
-    - Sustainability advice & design
-    - Urban design & master planning
-    - Dispute resolution services
-    - 3D visualization of house designs
-    - Recreational planning & Design
-    - Renovations & remodeling
+<ul id="collapsible-ul">
+  <li><span class="caret">Architecting</span>
 
-* Interior designing
-    - Interior Designing
-    - Professional advice
-    - Space planning & furniture arranging
-    - Specifying furniture, furnishings and fixtures
-    - Specifying, materials, colours & floor treatments
-    - Project management
-    - Exhibition stalls designs
+    <ul class="nested">
+        <li>Architectural design</li>
+        <li>House Plans & House Designs</li>
+        <li>Commercial projects</li>
+        <li>Applying for planning permission</li>
+        <li>Project supervisor design process</li>
+        <li>Administrating the building contract</li>
+        <li>Sustainability advice & design</li>
+        <li>Urban design & master planning</li>
+        <li>Dispute resolution services</li>
+        <li>3D visualization of house designs</li>
+        <li>Recreational planning & Design</li>
+        <li>Renovations & remodeling</li>
+    </ul>
 
-* Design & build
-    - Design & build
-        - Residences (Houses)
-        - Commercial construction
-        - Apartment
-        - Hotel
-        - Cabanas
-        - Restaurants
-        - Storeyed building
-        - Condominium building
-    - 3D Visualization
-    - Design and Estimation
-    - Structural works
-    - Consultation
-    - Building plans
-    - Green Buildings
-    - Construction Management
-    - Renovations & remodeling
+  </li>
+</ul>
 
-* Construction
-    - Building construction
-        - Residences (Houses)
-        - Commercial construction
-        - Apartment
-        - Hotel
-        - Cabanas
-        - Restaurants
-        - Storeyed building
-        - Condominium building
-    - Green Buildings
-    - Site inspection
-    - Soil testing
-    - Structural works
-    - Water & drainage
-    - Construction Management
-    - Site Clearance & Demolition works
-    - Solid Waste Management
+<ul id="collapsible-ul">
+  <li><span class="caret">Interior designing</span>
 
-* Kitchen & Bath
-    - Kitchen designing
-    - Bathroom designing
-    - Kitehen constructing
-    - Bathroom constructing
-    - uPVC designs
-    - Shower cubicles
-    - Kitchen renovation
-    - Bathroom renovation
-    - Design consultation
-    - Kitchen repair services
-        - Cabinet repair
-        - Countertop repair
-        - Faucet repair & installation
-        - Sink installation and repair
-        - Commercial Kitchen Equipment
-    - Bathroom repair services
-        - Toilet repair
-        - Tile installation & repairs
-        - Minor plumbing leaks
-        - Other bathroom repair services
+    <ul class="nested">
+        <li>Interior Designing</li>
+        <li>Professional advice</li>
+        <li>Space planning & furniture arranging</li>
+        <li>Specifying furniture, furnishings and fixtures</li>
+        <li>Specifying, materials, colours & floor treatments</li>
+        <li>Project management</li>
+        <li>Exhibition stalls designs</li>
+    </ul>
 
-* Landscape Architecting
-    - Residential landscape design
-    - Landscape Design
-    - Garden Design
-    - Hardscaping
-    - Landscape Plans
-    - Outdoor Swimming Pool Design
-    - Pool Landscaping
-    - Gazebo Design
-    - 3D visualization
-    - Pond designs
-    - Car park designing
-    - Waterfront architecture
-    - Landscape renovations
-    - Master Planning
-    - Feasibility Studies
-    - Rooftop garden design
-    - Streetscape design
-    - Project management
+  </li>
+</ul>
 
-* Landscaping
-    - Garden designing
-    - Water fountains
-    - Wall stones/ cladding
-    - Green walls
-    - Rooftop garden design
-    - Indoor gardens
-    - Irrigation systems
-    - Design services
-    - Paving
-    - Courtyard Designing
-    - Dog kennels
-    - Garden maintenance
-    - Vertical Gardens
-    - Kitchen Garden - Landscaping
+<ul id="collapsible-ul">
+  <li><span class="caret">Design & build</span>
 
-* Swimming Pool
-    - Swimming Pool Construction
-    - Salt water pool Construction
-    - Water Proofing Works
-    - Supply pool equipments & chemicals
-    - Swimming pool remodeling
-    - Designing outdoor Swimming pools
-    - Designing indoor Swimming pools
-    - Industrial swimming pools
-    - Domestic swimming pools
-    - Jacuzzi
-    - Maintenance of swimming pools
-        - Pool cleaning
-        - Poor repair
-        - Pool Equipment Maintenance
+    <ul class="nested">
+        <li>3D Visualization</li>
+        <li>Design and Estimation</li>
+        <li>Structural works</li>
+        <li>Consultation</li>
+        <li>Building plans</li>
+        <li>Green Buildings</li>
+        <li>Construction Management</li>
+        <li>Renovations & remodeling</li>
+        <li><span class="caret">Design & build</span>
+            <ul class="nested">
+                <li>Residences (Houses)</li>
+                <li>Commercial construction</li>
+                <li>Apartment</li>
+                <li>Hotel</li>
+                <li>Cabanas</li>
+                <li>Restaurants</li>
+                <li>Storeyed building</li>
+                <li>Condominium building</li>
+            </ul>
+        </li>
+    </ul>
 
-* Civil Engineering
-    - Structural Design
-    - Hydrology design
-    - Transport and Highway Design
-    - GIS and Surveying
-    - Project Management
-    - Geo techinical Services
-    - Building Approvals
-    - Environmental Engineering 
-    - Consultations
-    - Sustainable and Green Buildings
-    - Sewer Collection Design and Permitting
+  </li>
+</ul>
 
-* Consultations and professional advice
-    - Project Management
-    - Feasibility Studies
-    - Detailed Designs
-    - Design Consultancy
-    - Construction Supervision
-    - Environmental social impact assessments
-    - Progress and financial control of contracts
-    - Construction management
-    - Contract Administration
-    - Cost Estimating
-    - Planning and Scheduling
-    - Architectural Consultancy
-    - Dispute Resolution
+<ul id="collapsible-ul">
+  <li><span class="caret">Construction</span>
 
-* Container conversions
-    - Ready made units
-    - Container swimming pools
-    - Portable Sanitary units
-    - Rent Container conversion units
-    - Construct custom designs
-    - Container conversion designing
-    - Maintenance
+    <ul class="nested">
+        <li><span class="caret">Building construction</span>
+            <ul class="nested">
+                <li>Residences (Houses)</li>
+                <li>Commercial construction</li>
+                <li>Apartment</li>
+                <li>Hotel</li>
+                <li>Cabanas</li>
+                <li>Restaurants</li>
+                <li>Storeyed building</li>
+                <li>Condominium building</li>
+            </ul>
+        </li>
+        <li>Green Buildings</li>
+        <li>Site inspection</li>
+        <li>Soil testing</li>
+        <li>Structural works</li>
+        <li>Water & drainage</li>
+        <li>Construction Management</li>
+        <li>Site Clearance & Demolition works</li>
+        <li>Solid Waste Management</li>
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Kitchen & Bath</span>
+
+    <ul class="nested">
+        <li>Kitchen designing</li>
+        <li>Bathroom designing</li>
+        <li>Kitehen constructing</li>
+        <li>Bathroom constructing</li>
+        <li>uPVC designs</li>
+        <li>Shower cubicles</li>
+        <li>Kitchen renovation</li>
+        <li>Bathroom renovation</li>
+        <li>Design consultation</li>
+        <li><span class="caret">Kitchen repair services</span>
+            <ul class="nested">
+                <li>Cabinet repair</li>
+                <li>Countertop repair</li>
+                <li>Faucet repair & installation</li>
+                <li>Sink installation and repair</li>
+                <li>Commercial Kitchen Equipment</li>
+            </ul>
+        </li>
+        <li><span class="caret">Bathroom repair services</span>
+            <ul class="nested">
+                <li>Toilet repair</li>
+                <li>Tile installation & repairs</li>
+                <li>Minor plumbing leaks</li>
+                <li>Other bathroom repair services</li>
+            </ul>
+        </li>
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Landscape Architecting</span>
+
+    <ul class="nested">
+        <li>Residential landscape design</li>
+        <li>Landscape Design</li>
+        <li>Garden Design</li>
+        <li>Hardscaping</li>
+        <li>Landscape Plans</li>
+        <li>Outdoor Swimming Pool Design</li>
+        <li>Pool Landscaping</li>
+        <li>Gazebo Design</li>
+        <li>3D visualization</li>
+        <li>Pond designs</li>
+        <li>Car park designing</li>
+        <li>Waterfront architecture</li>
+        <li>Landscape renovations</li>
+        <li>Master Planning</li>
+        <li>Feasibility Studies</li>
+        <li>Rooftop garden design</li>
+        <li>Streetscape design</li>
+        <li>Project management</li>
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Landscaping</span>
+
+    <ul class="nested">
+        <li>Garden designing</li>
+        <li>Water fountains</li>
+        <li>Wall stones/ cladding</li>
+        <li>Green walls</li>
+        <li>Rooftop garden design</li>
+        <li>Indoor gardens</li>
+        <li>Irrigation systems</li>
+        <li>Design services</li>
+        <li>Paving</li>
+        <li>Courtyard Designing</li>
+        <li>Dog kennels</li>
+        <li>Garden maintenance</li>
+        <li>Vertical Gardens</li>
+        <li>Kitchen Garden - Landscaping</li>
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Swimming Pool</span>
+
+    <ul class="nested">
+        <li>Swimming Pool Construction</li>
+        <li>Salt water pool Construction</li>
+        <li>Water Proofing Works</li>
+        <li>Supply pool equipments & chemicals</li>
+        <li>Swimming pool remodeling</li>
+        <li>Designing outdoor Swimming pools</li>
+        <li>Designing indoor Swimming pools</li>
+        <li>Industrial swimming pools</li>
+        <li>Domestic swimming pools</li>
+        <li>Jacuzzi</li>
+        <li><span class="caret">Maintenance of swimming pools</span>
+            <ul class="nested">
+                <li>Pool cleaning</li>
+                <li>Poor repair</li>
+                <li>Pool Equipment Maintenance</li>
+            </ul>
+        </li>
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Civil Engineering</span>
+
+    <ul class="nested">
+        <li>Structural Design</li>
+        <li>Hydrology design</li>
+        <li>Transport and Highway Design</li>
+        <li>GIS and Surveying</li>
+        <li>Project Management</li>
+        <li>Geo techinical Services</li>
+        <li>Building Approvals</li>
+        <li>Environmental Engineering </li>
+        <li>Consultations</li>
+        <li>Sustainable and Green Buildings</li>
+        <li>Sewer Collection Design and Permitting</li>
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Consultations and professional advice</span>
+
+    <ul class="nested">
+        <li>Project Management</li>
+        <li>Feasibility Studies</li>
+        <li>Detailed Designs</li>
+        <li>Design Consultancy</li>
+        <li>Construction Supervision</li>
+        <li>Environmental social impact assessments</li>
+        <li>Progress and financial control of contracts</li>
+        <li>Construction management</li>
+        <li>Contract Administration</li>
+        <li>Cost Estimating</li>
+        <li>Planning and Scheduling</li>
+        <li>Architectural Consultancy</li>
+        <li>Dispute Resolution</li>
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Container conversions</span>
+
+    <ul class="nested">
+        <li>Ready made units</li>
+        <li>Container swimming pools</li>
+        <li>Portable Sanitary units</li>
+        <li>Rent Container conversion units</li>
+        <li>Construct custom designs</li>
+        <li>Container conversion designing</li>
+        <li>Maintenance</li>
+    </ul>
+
+  </li>
+</ul>
 
 ### Home Improvement
 
-* Cupboards, Cabinets & Pantry
-    - Cupboard & cabinet designing
-    - Pantry designing
-    - uPVC designs
-    - Wooden pantries
-    - Aluminium pantries
-    - Stainless steel pantries
+<ul id="collapsible-ul">
+  <li><span class="caret">Cupboards, Cabinets & Pantry</span>
 
-* Deck & Patio
-    - Deck & Patio Designing
-    - Boardwalks
-    - Timbertech Decks
-    - Cedar Decks
-    - Composite Decks
-    - Azek Decks
-    - Trex Decks
-    - Stone, Brick & Concrete Patios
-    - Stone Walkways & Paths
-    - PVC Decking
-    - Capped Polymer Decking
+    <ul class="nested">
+        <li>Cupboard & cabinet designing</li>
+        <li>Pantry designing</li>
+        <li>uPVC designs</li>
+        <li>Wooden pantries</li>
+        <li>Aluminium pantries</li>
+        <li>Stainless steel pantries</li>
+    </ul>
 
-* Door designing
-    - Door designing
-    - Custom doors
-    - Door installation
-    - Door repair
-    - Door painting
-    - Door canopies
-    - Retractable screen doors
-    - Garage doors
-    - Fly screen
-    - Bifold doors
-    - Swing doors
-    - Steel doors
-    - Wooden doors
-    - Galvanized doors
-    - uPVC doors
-    - Casement doors
-    - Aluminium doors
+  </li>
+</ul>
 
-* Flooring
-    - Titanium Cut Flooring
-    - Hardwood flooring
-    - Engineered Wood flooring
-    - Bamboo flooring
-    - Laminate flooring
-    - Epoxy flooring
-    - Cement cut flooring
-    - Ceramic Tile flooring
-    - Carpet flooring
-    - Terracotta flooring
-    - Terrazzo
-    - Vinyl flooring
-    - Linoleum flooring
-    - Carpet flooring
-    - Baseboards
+<ul id="collapsible-ul">
+  <li><span class="caret">Deck & Patio</span>
 
-* Wall & coverings
-    - Colour consulting
-    - Decorative painting
-    - Dry wall installation
-    - Dry wall repair
-    - Dry wall texturing
-    - Faux painting
-    - Exterior painting
-    - Wall mural
-    - Wallpapers
-    - Wall arts
-    - wall sculpture
-    - Wall décor
+    <ul class="nested">
+        <li>Deck & Patio Designing</li>
+        <li>Boardwalks</li>
+        <li>Timbertech Decks</li>
+        <li>Cedar Decks</li>
+        <li>Composite Decks</li>
+        <li>Azek Decks</li>
+        <li>Trex Decks</li>
+        <li>Stone, Brick & Concrete Patios</li>
+        <li>Stone Walkways & Paths</li>
+        <li>PVC Decking</li>
+        <li>Capped Polymer Decking</li>
+    </ul>
 
-* Cushion Cover
-    - Custom cusion cover designs
-    - Handloom cushion covers
-    - Cross-strich cushion covers
-    - Handccrafted cushion covers
-    - Embroidered cushion covers
-    - Custom sofa pillow covers
-    - Cusion cover for Apartments and Hotels
+  </li>
+</ul>
 
-* Countertops
-    - Custom Countertop designing
-    - Granite Countertops
-    - Quartz Countertops
-    - Laminate Countertops
-    - Recycled Glass Countertops
-    - Concrete Countertops
-    - Butcherblock Countertops
-    - Marble Countertops
-    - Solid Surface Countertops
-    - Tile Countertops
-    - Eco Friendly Countertops
-    - Lava Countertops
-    - Resin Countertops
-    - Reclaimed Wood Countertops
-    - Stainless Steel Countertops
-    - Porcelain Countertops
+<ul id="collapsible-ul">
+  <li><span class="caret">Door designing</span>
 
-* Window & blinds
-    - Custom window designs
-    - Custom wooden windows
-    - Custom Aluminium windows
-    - Custom steel windows
-    - Window canopies
-    - Window films
-    - Window blinds
-        - Remote controled blinds
-        - Vertical Blinds
-        - Venetian Blinds
-        - Roller Blinds
-        - Remote controled blinds
-        - Roman Blinds
-        - Wooden Blinds
-        - Sunscreen Roller shades
-        - Pleated Blinds
-        - Silhouette blinds
-        - Monsoon blinds
+    <ul class="nested">
+        <li>Door designing</li>
+        <li>Custom doors</li>
+        <li>Door installation</li>
+        <li>Door repair</li>
+        <li>Door painting</li>
+        <li>Door canopies</li>
+        <li>Retractable screen doors</li>
+        <li>Garage doors</li>
+        <li>Fly screen</li>
+        <li>Bifold doors</li>
+        <li>Swing doors</li>
+        <li>Steel doors</li>
+        <li>Wooden doors</li>
+        <li>Galvanized doors</li>
+        <li>uPVC doors</li>
+        <li>Casement doors</li>
+        <li>Aluminium doors</li>
+    </ul>
 
-* Exterior Cladding
-    - Wood cladding
-    - Vinyl cladding
-    - Metal cladding
-    - Brick cladding
-    - Stone cladding
-    - Fiber Cement
-    - Engineered Wood cladding
-    - Insulated cladding
-    - Concrete cladding
-    - Aluminium cladding
-    - Stucco
-    - Steel Log Siding
-    - Glass Exterior
-    - Composite timber screens
-    - Custom graphic cladding
-    - Decorative cladding boards
-    - Screenwood External Systems
+  </li>
+</ul>
 
-* Interior Cladding
-    - Decorative acoustic panelling solutions
-    - Decorative plywood
-    - Engineered timber cladding
-    - Acoustic plasterboard wall systems
-    - Porcelain panels
-    - Decorative cladding boards
-    - Wood wall cladding
-    - Interior stone wall cladding
-    - Decorative wall cladding
-    - Other wall cladding methods
+<ul id="collapsible-ul">
+  <li><span class="caret">Flooring</span>
 
-* Curtains & Drapes
-    - Custom curtain designs
-    - PVC strip curtains
-    - Grommet Curtains(Eyelet)
-    - Sheer Curtains
-    - Rod Pocket Curtains
-    - Tab Top Curtains
-    - Pleated Drapes
-    - Pelmets and Valances
-    - Window Scarf
-    - Cafe Curtains
+    <ul class="nested">
+        <li>Titanium Cut Flooring</li>
+        <li>Hardwood flooring</li>
+        <li>Engineered Wood flooring</li>
+        <li>Bamboo flooring</li>
+        <li>Laminate flooring</li>
+        <li>Epoxy flooring</li>
+        <li>Cement cut flooring</li>
+        <li>Ceramic Tile flooring</li>
+        <li>Carpet flooring</li>
+        <li>Terracotta flooring</li>
+        <li>Terrazzo</li>
+        <li>Vinyl flooring</li>
+        <li>Linoleum flooring</li>
+        <li>Carpet flooring</li>
+        <li>Baseboards</li>
+    </ul>
 
-* Shades
-    - Pergola design and build
-        - Steel pergolas
-        - Sail pergolas
-        - Pitched pergolas
-        - Gabled pergolas
-        - Open top pergolas
-        - Solar power pergolas
-    - Awnings
-    - Outdoor shades
-    - Tensile membranes
-    - Parking shades
-    - Shadesail
+  </li>
+</ul>
 
-* Roofing, Ceiling & Gutters
-    - Roofing
-    - Warehouse roofing
-    - Ceiling
-    - Gutters
-    - Crown molding
+<ul id="collapsible-ul">
+  <li><span class="caret">Wall & coverings</span>
 
-* Gate & Fence
-    - Roller doors
-    - Swing gates
-    - Sliding gates
-    - Automated swing gates
-    - Automated sliding gates
-    - Automatic barriers
-    - Railings
-    - Sensor doors
-    - Fire resistant doors
-    - Industrial type roller shutters
-    - Custom gates
+    <ul class="nested">
+        <li>Colour consulting</li>
+        <li>Decorative painting</li>
+        <li>Dry wall installation</li>
+        <li>Dry wall repair</li>
+        <li>Dry wall texturing</li>
+        <li>Faux painting</li>
+        <li>Exterior painting</li>
+        <li>Wall mural</li>
+        <li>Wallpapers</li>
+        <li>Wall arts</li>
+        <li>wall sculpture</li>
+        <li>Wall décor</li>
+    </ul>
 
-* Elevators, Escalators & Travellators
-    - Residential Elevators
-    - Passenger Elevators
-    - Hospital Elevators
-    - Panoramic Elevator
-    - Freight Elevators
-    - High-speed elevator
-    - Automobile Elevators
-    - Elevator Modernization
-    - Elevator Repairing
-    - Escalators
-    - Escalator Modernization
-    - Escalator repairing
-    - Moving walks
-    - Repairing mooving walks
+  </li>
+</ul>
 
-* Staircase & Handrails
-    - Wooden handrails
-    - Wooden stair case
-    - Steel handrails
-    - Steel stair case
-    - Alluminium handrails
-    - Balcony designs
-    - Stair case designs
+<ul id="collapsible-ul">
+  <li><span class="caret">Cushion Cover</span>
 
-* Furniture
-    - Office furnitures
-    - Bedroom furnitures
-    - Childeren furnitures
-    - Room arrangements
-    - Living room furnitures
-    - Outdoor furnitures
-    - Wall cupboards
-    - Custom furniture designing
-    - Custom furniture manufacturing
-    - Furniture repair
-        - Sofa repairing
-        - Kawichchi repairing
-        - Recushioning
-        - Office furniture repair
-        - Wood furniture repair
-        - Furniture Assembly
-        - Other furniture repair services
+    <ul class="nested">
+        <li>Custom cusion cover designs</li>
+        <li>Handloom cushion covers</li>
+        <li>Cross-strich cushion covers</li>
+        <li>Handccrafted cushion covers</li>
+        <li>Embroidered cushion covers</li>
+        <li>Custom sofa pillow covers</li>
+        <li>Cusion cover for Apartments and Hotels</li>
+    </ul>
 
-* Home automation & security systems
-    - CCTV Camera systems
-    - Security alarm systems
-    - Visitor management
-    - Digital video systems
-    - Personal access controls
-    - Biometric access control
-    - Privacy & personal security
-    - Home automation
+  </li>
+</ul>
 
-* Solar power solutions
-    - Solar street lights
-    - Solar garden lights
-    - Solar pumping systems
-    - Solar hot water systems
-    - Rooftop solar installations
+<ul id="collapsible-ul">
+  <li><span class="caret">Countertops</span>
 
-* Spa designing and building
-    - Indoor spa
-    - Outdoor spa
-    - Ayurvedic spa
-    - Destination spa
-    - Medical spa
-    - Detox spa
-    - Thermal spa
-    - Spa Consultancy
-    - Spa constructing
-    - Spa designing
+    <ul class="nested">
+        <li>Custom Countertop designing</li>
+        <li>Granite Countertops</li>
+        <li>Quartz Countertops</li>
+        <li>Laminate Countertops</li>
+        <li>Recycled Glass Countertops</li>
+        <li>Concrete Countertops</li>
+        <li>Butcherblock Countertops</li>
+        <li>Marble Countertops</li>
+        <li>Solid Surface Countertops</li>
+        <li>Tile Countertops</li>
+        <li>Eco Friendly Countertops</li>
+        <li>Lava Countertops</li>
+        <li>Resin Countertops</li>
+        <li>Reclaimed Wood Countertops</li>
+        <li>Stainless Steel Countertops</li>
+        <li>Porcelain Countertops</li>
+    </ul>
 
-* Saunas & steam rooms
-    - Saunas & steam rooms designing
-    - Saunas & steam rooms Constructing
+  </li>
+</ul>
 
-* Waste water treatment
-    - Residentil waste water treatment
-    - Chemical Treatments
-    - Water Re-Use Plant Designing & Construction
-    - Dye & Waste Water Treatment Plant
-    - Designing, Constructing ETP & WTP
-    - Rain Water Harvesting Systems
-    - Canteen, Laundry & Kitchen Waste Water Treatment
-    - Designing & installing pond cleaning systems
-    - Consultation Service
-    - Plant installations
-    - Designing custom plants
-    - Maintenance
+<ul id="collapsible-ul">
+  <li><span class="caret">Window & blinds</span>
 
-* Lighting designing
-    - Architectural lighting designing
-    - Detailed Lighting Plans
-    - Lighting Project Management
-    - Electrical Installation
-    - Light Level Calculations
-    - Lighting Energy Evaluation
-    - Lighting Controls Design and Installation
-    - Custom Lighting Fixture Design
-    - Window Shade Controls
-    - Facade Illumination
-    - Landscape Illumination
-    - Lighting consultations
+    <ul class="nested">
+        <li>Custom window designs</li>
+        <li>Custom wooden windows</li>
+        <li>Custom Aluminium windows</li>
+        <li>Custom steel windows</li>
+        <li>Window canopies</li>
+        <li>Window films</li>
+        <li><span class="caret">Window blinds</span>
+            <ul class="nested">
+                <li>Remote controled blinds</li>
+                <li>Vertical Blinds</li>
+                <li>Venetian Blinds</li>
+                <li>Roller Blinds</li>
+                <li>Remote controled blinds</li>
+                <li>Roman Blinds</li>
+                <li>Wooden Blinds</li>
+                <li>Sunscreen Roller shades</li>
+                <li>Pleated Blinds</li>
+                <li>Silhouette blinds</li>
+                <li>Monsoon blinds</li>
+            </ul>
+        </li>
+    </ul>
 
-* Fire security systems
-    - Fire Hydrant Systems
-    - Fire Sprinkler Systems
-    - Fire Extinguishers Systems
-    - Hose reels systems
-    - Fire detection systems
-    - Conventional Fire Detection Systems
-    - Designing fire security systems
-    - Installing fire security systems
-    - Fire alarm systems
-    - Customised solutions 
-    - Consultation Service
-    - Maintenance
+  </li>
+</ul>
 
-* Pest control and management
-    - Ants and Cockroaches control
-    - Termite Control
-    - Rodent Control
-    - Bed Bugs control
-    - Mosquito Control
-    - Fly control
-    - Domestic Pest Control
-    - Commercial Pest Control
-    - Pest Audits
+<ul id="collapsible-ul">
+  <li><span class="caret">Exterior Cladding</span>
+
+    <ul class="nested">
+        <li>Wood cladding</li>
+        <li>Vinyl cladding</li>
+        <li>Metal cladding</li>
+        <li>Brick cladding</li>
+        <li>Stone cladding</li>
+        <li>Fiber Cement</li>
+        <li>Engineered Wood cladding</li>
+        <li>Insulated cladding</li>
+        <li>Concrete cladding</li>
+        <li>Aluminium cladding</li>
+        <li>Stucco</li>
+        <li>Steel Log Siding</li>
+        <li>Glass Exterior</li>
+        <li>Composite timber screens</li>
+        <li>Custom graphic cladding</li>
+        <li>Decorative cladding boards</li>
+        <li>Screenwood External Systems</li>
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Interior Cladding</span>
+
+    <ul class="nested">
+        <li>Decorative acoustic panelling solutions</li>
+        <li>Decorative plywood</li>
+        <li>Engineered timber cladding</li>
+        <li>Acoustic plasterboard wall systems</li>
+        <li>Porcelain panels</li>
+        <li>Decorative cladding boards</li>
+        <li>Wood wall cladding</li>
+        <li>Interior stone wall cladding</li>
+        <li>Decorative wall cladding</li>
+        <li>Other wall cladding methods</li>
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Curtains & Drapes</span>
+
+    <ul class="nested">
+        <li>Custom curtain designs</li>
+        <li>PVC strip curtains</li>
+        <li>Grommet Curtains(Eyelet)</li>
+        <li>Sheer Curtains</li>
+        <li>Rod Pocket Curtains</li>
+        <li>Tab Top Curtains</li>
+        <li>Pleated Drapes</li>
+        <li>Pelmets and Valances</li>
+        <li>Window Scarf</li>
+        <li>Cafe Curtains</li>
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Shades</span>
+
+    <ul class="nested">
+        <li><span class="caret">Pergola design and build</span>
+            <ul class="nested">
+                <li>Steel pergolas</li>
+                <li>Sail pergolas</li>
+                <li>Pitched pergolas</li>
+                <li>Gabled pergolas</li>
+                <li>Open top pergolas</li>
+                <li>Solar power pergolas</li>
+            </ul>
+        </li>
+        <li>Awnings</li>
+        <li>Outdoor shades</li>
+        <li>Tensile membranes</li>
+        <li>Parking shades</li>
+        <li>Shadesail</li>
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Roofing, Ceiling & Gutters</span>
+
+    <ul class="nested">
+        <li>Roofing</li>
+        <li>Warehouse roofing</li>
+        <li>Ceiling</li>
+        <li>Gutters</li>
+        <li>Crown molding</li>
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Gate & Fence</span>
+
+    <ul class="nested">
+        <li>Roller doors</li>
+        <li>Swing gates</li>
+        <li>Sliding gates</li>
+        <li>Automated swing gates</li>
+        <li>Automated sliding gates</li>
+        <li>Automatic barriers</li>
+        <li>Railings</li>
+        <li>Sensor doors</li>
+        <li>Fire resistant doors</li>
+        <li>Industrial type roller shutters</li>
+        <li>Custom gates</li>
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Elevators, Escalators & Travellators</span>
+
+    <ul class="nested">
+        <li>Residential Elevators</li>
+        <li>Passenger Elevators</li>
+        <li>Hospital Elevators</li>
+        <li>Panoramic Elevator</li>
+        <li>Freight Elevators</li>
+        <li>High-speed elevator</li>
+        <li>Automobile Elevators</li>
+        <li>Elevator Modernization</li>
+        <li>Elevator Repairing</li>
+        <li>Escalators</li>
+        <li>Escalator Modernization</li>
+        <li>Escalator repairing</li>
+        <li>Moving walks</li>
+        <li>Repairing mooving walks</li>
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Staircase & Handrails</span>
+
+    <ul class="nested">
+        <li>Wooden handrails</li>
+        <li>Wooden stair case</li>
+        <li>Steel handrails</li>
+        <li>Steel stair case</li>
+        <li>Alluminium handrails</li>
+        <li>Balcony designs</li>
+        <li>Stair case designs</li>
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Furniture</span>
+
+    <ul class="nested">
+        <li>Office furnitures</li>
+        <li>Bedroom furnitures</li>
+        <li>Childeren furnitures</li>
+        <li>Room arrangements</li>
+        <li>Living room furnitures</li>
+        <li>Outdoor furnitures</li>
+        <li>Wall cupboards</li>
+        <li>Custom furniture designing</li>
+        <li>Custom furniture manufacturing</li>
+        <li><span class="caret">Furniture repair</span>
+            <ul class="nested">
+                <li>Sofa repairing</li>
+                <li>Kawichchi repairing</li>
+                <li>Recushioning</li>
+                <li>Office furniture repair</li>
+                <li>Wood furniture repair</li>
+                <li>Furniture Assembly</li>
+                <li>Other furniture repair services</li>
+            </ul>
+        </li>
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Home automation & security systems</span>
+
+    <ul class="nested">
+        <li>CCTV Camera systems</li>
+        <li>Security alarm systems</li>
+        <li>Visitor management</li>
+        <li>Digital video systems</li>
+        <li>Personal access controls</li>
+        <li>Biometric access control</li>
+        <li>Privacy & personal security</li>
+        <li>Home automation</li>
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Solar power solutions</span>
+
+    <ul class="nested">
+        <li>Solar street lights</li>
+        <li>Solar garden lights</li>
+        <li>Solar pumping systems</li>
+        <li>Solar hot water systems</li>
+        <li>Rooftop solar installations</li>
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Spa designing and building</span>
+
+    <ul class="nested">
+        <li>Indoor spa</li>
+        <li>Outdoor spa</li>
+        <li>Ayurvedic spa</li>
+        <li>Destination spa</li>
+        <li>Medical spa</li>
+        <li>Detox spa</li>
+        <li>Thermal spa</li>
+        <li>Spa Consultancy</li>
+        <li>Spa constructing</li>
+        <li>Spa designing</li>
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Saunas & steam rooms</span>
+
+    <ul class="nested">
+        <li>Saunas & steam rooms designing</li>
+        <li>Saunas & steam rooms Constructing</li>
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Waste water treatment</span>
+
+    <ul class="nested">
+        <li>Residentil waste water treatment</li>
+        <li>Chemical Treatments</li>
+        <li>Water Re-Use Plant Designing & Construction</li>
+        <li>Dye & Waste Water Treatment Plant</li>
+        <li>Designing, Constructing ETP & WTP</li>
+        <li>Rain Water Harvesting Systems</li>
+        <li>Canteen, Laundry & Kitchen Waste Water Treatment</li>
+        <li>Designing & installing pond cleaning systems</li>
+        <li>Consultation Service</li>
+        <li>Plant installations</li>
+        <li>Designing custom plants</li>
+        <li>Maintenance</li>
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Lighting designing</span>
+
+    <ul class="nested">
+        <li>Architectural lighting designing</li>
+        <li>Detailed Lighting Plans</li>
+        <li>Lighting Project Management</li>
+        <li>Electrical Installation</li>
+        <li>Light Level Calculations</li>
+        <li>Lighting Energy Evaluation</li>
+        <li>Lighting Controls Design and Installation</li>
+        <li>Custom Lighting Fixture Design</li>
+        <li>Window Shade Controls</li>
+        <li>Facade Illumination</li>
+        <li>Landscape Illumination</li>
+        <li>Lighting consultations</li>
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Fire security systems</span>
+
+    <ul class="nested">
+        <li>Fire Hydrant Systems</li>
+        <li>Fire Sprinkler Systems</li>
+        <li>Fire Extinguishers Systems</li>
+        <li>Hose reels systems</li>
+        <li>Fire detection systems</li>
+        <li>Conventional Fire Detection Systems</li>
+        <li>Designing fire security systems</li>
+        <li>Installing fire security systems</li>
+        <li>Fire alarm systems</li>
+        <li>Customised solutions </li>
+        <li>Consultation Service</li>
+        <li>Maintenance</li>
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Pest control and management</span>
+
+    <ul class="nested">
+        <li>Ants and Cockroaches control</li>
+        <li>Termite Control</li>
+        <li>Rodent Control</li>
+        <li>Bed Bugs control</li>
+        <li>Mosquito Control</li>
+        <li>Fly control</li>
+        <li>Domestic Pest Control</li>
+        <li>Commercial Pest Control</li>
+        <li>Pest Audits</li>
+    </ul>
+
+  </li>
+</ul>
 
 ### Home Services
 
