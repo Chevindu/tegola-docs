@@ -27,17 +27,17 @@ h3 {
     border-left: solid 2px rgb(70, 150, 236);
 }
 
-.md-typeset h1:target::before, .md-typeset h2:target::before, .md-typeset h3:target::before {
-    padding-top: 5px;
-}
-
-#collapsible-ul, #collapsible-ul ul {
+#collapsible-ul, #collapsible-ul > li:first-child {
     list-style-type: none;
 }
 
 #collapsible-ul {
     margin: 0;
     padding: 0;
+}
+
+#collapsible-ul li {
+    margin-left: 0;
 }
 
 .caret {
@@ -59,8 +59,18 @@ h3 {
 
 #collapsible-ul .nested {
     display: none;
+    padding-left: 15px;
+    list-style-type: circle;
+}
+
+#collapsible-ul .nested ul {
+    list-style-type: square;
 }
 
 #collapsible-ul .nested.active {
     display: block;
+}
+
+#collapsible-ul .nested li {
+    margin-left: 14px;
 }

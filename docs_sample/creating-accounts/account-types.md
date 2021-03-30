@@ -4,11 +4,11 @@ Tegola provides a platform to showcase the projects and services of companies, p
 
 There are 5 main types of accounts.
 
-1. Professional
-2. Company
-3. Individual
-4. Fresh Graduate
-5. Undergraduate
+1. [Professional](#professional)
+2. [Company](#company)
+3. [Individual](#individual)
+4. [Fresh Graduate](#fresh_graduate)
+5. [Undergraduate](#undergraduate)
 
 ## Professional
 
@@ -90,7 +90,9 @@ Any Sri Lanka based company that serves in construction & home industry can crea
                 <li>Restaurants</li>
                 <li>Storeyed building</li>
                 <li>Condominium building</li>
+
             </ul>
+
         </li>
 
     </ul>
@@ -112,8 +114,11 @@ Any Sri Lanka based company that serves in construction & home industry can crea
                 <li>Restaurants</li>
                 <li>Storeyed building</li>
                 <li>Condominium building</li>
+
             </ul>
+
         </li>
+
         <li>Green Buildings</li>
         <li>Site inspection</li>
         <li>Soil testing</li>
@@ -148,15 +153,20 @@ Any Sri Lanka based company that serves in construction & home industry can crea
                 <li>Faucet repair & installation</li>
                 <li>Sink installation and repair</li>
                 <li>Commercial Kitchen Equipment</li>
+
             </ul>
+
         </li>
+
         <li><span class="caret">Bathroom repair services</span>
             <ul class="nested">
                 <li>Toilet repair</li>
                 <li>Tile installation & repairs</li>
                 <li>Minor plumbing leaks</li>
                 <li>Other bathroom repair services</li>
+
             </ul>
+
         </li>
 
     </ul>
@@ -235,7 +245,9 @@ Any Sri Lanka based company that serves in construction & home industry can crea
                 <li>Pool cleaning</li>
                 <li>Poor repair</li>
                 <li>Pool Equipment Maintenance</li>
+
             </ul>
+
         </li>
 
     </ul>
@@ -483,7 +495,9 @@ Any Sri Lanka based company that serves in construction & home industry can crea
                 <li>Pleated Blinds</li>
                 <li>Silhouette blinds</li>
                 <li>Monsoon blinds</li>
+
             </ul>
+
         </li>
 
     </ul>
@@ -570,8 +584,11 @@ Any Sri Lanka based company that serves in construction & home industry can crea
                 <li>Gabled pergolas</li>
                 <li>Open top pergolas</li>
                 <li>Solar power pergolas</li>
+
             </ul>
+
         </li>
+
         <li>Awnings</li>
         <li>Outdoor shades</li>
         <li>Tensile membranes</li>
@@ -682,7 +699,9 @@ Any Sri Lanka based company that serves in construction & home industry can crea
                 <li>Wood furniture repair</li>
                 <li>Furniture Assembly</li>
                 <li>Other furniture repair services</li>
+
             </ul>
+
         </li>
 
     </ul>
@@ -988,8 +1007,11 @@ Any Sri Lanka based company that serves in construction & home industry can crea
                     </ul>
                 </li>
                 
+
             </ul>
+
         </li>
+
         <li>Woodworking</li>
         <li>Wood staining</li>
         <li>Wood rot replacement</li>
@@ -1089,15 +1111,20 @@ Talented individuals who provide construction industry related services fall und
                 <li>Countertop repair</li>
                 <li>Faucet repair & installation</li>
                 <li>Sink installation and repair</li>
+
             </ul>
+
         </li>
+
         <li><span class="caret">Bathroom repair services</span>
             <ul class="nested">
                 <li>Toilet repair</li>
                 <li>Tile installation & repairs</li>
                 <li>Minor plumbing leaks</li>
                 <li>Other bathroom repair services</li>
+
             </ul>
+
         </li>
 
     </ul>
@@ -1130,7 +1157,9 @@ Talented individuals who provide construction industry related services fall und
                 <li>Pool cleaning</li>
                 <li>Poor repair</li>
                 <li>Pool Equipment Maintenance</li>
+
             </ul>
+
         </li>
 
     </ul>
@@ -1438,155 +1467,185 @@ Talented individuals who provide construction industry related services fall und
     </ul>
 
   </li>
-</ul>
+  <li>
 
-<ul id="collapsible-ul">
-  <li><span class="caret">Garden & Lawn care</span>
+    <ul id="collapsible-ul">
+      <li><span class="caret">Garden & Lawn care</span>
 
-    <ul class="nested">
-      <li>Garden maintenance</li>
-      <li>Lawn Mowing</li>
-      <li>Sod Installation and Fertilizing</li>
-      <li>Weed Control</li>
-      <li>Tree & Hedge trimming</li>
-      <li>Pruning</li>
-      <li>Garden Cleaning</li>
-      <li>Planting</li>
-
-    </ul>
-
-  </li>
-</ul>
-
-<ul id="collapsible-ul">
-  <li><span class="caret">Movers</span>
-
-    <ul class="nested">
-      <li>Van</li>
-      <li>Cab</li>
-      <li>Lorry</li>
-
-    </ul>
-
-  </li>
-</ul>
-
-<ul id="collapsible-ul">
-  <li><span class="caret">Painting services</span>
-
-    <ul class="nested">
-      <li>Residential Painting Services</li>
-      <li>Interior painting</li>
-      <li>Exterior painting</li>
-      <li>Floor painting</li>
-      <li>Deck & Fence painting</li>
-      <li>Eco-friendly painting</li>
-      <li>Pressure washing</li>
-
-    </ul>
-
-  </li>
-</ul>
-
-* Wall crack solutions
-
-* Masonry
-
-<ul id="collapsible-ul">
-  <li><span class="caret">Water Proofing</span>
-
-    <ul class="nested">
-      <li>Floor coating</li>
-      <li>Protective coatings</li>
-      <li>Underwater coatingss</li>
-      <li>Basement Waterproofing</li>
-      <li>Damp Proofing - Rising Dampness</li>
-      <li>Waterproofing – Terraces</li>
-      <li>Waterproofing - Bathrooms</li>
-      <li>Joint Sealing & Grouting</li>
-      <li>Slab Waterproofing</li>
-      <li>Swimming Pool Waterproofing</li>
-      <li>Wall Waterproofing</li>
-      <li>Rooftop Waterproofing</li>
-      <li>Kitchen Waterproofing</li>
-      <li>Water Tank Waterproofing</li>
-
-    </ul>
-
-  </li>
-</ul>
-
-<ul id="collapsible-ul">
-  <li><span class="caret">Carpentry & Joinery</span>
-
-    <ul class="nested">
-      <li>General carpentry services</li>
-      <li><span class="caret">Different wood types</span>
         <ul class="nested">
-          <li>Teak</li>
-          <li>Mahogany</li>
-          <li>Burutha</li>
-          <li>Kumbuk</li>
-          <li>Nedun</li>
-          <li>Kolon</li>
-          <li>Jak</li>
-          <li>Halmilla</li>
-          <li>Kaluwara (Ebony)</li>
-          <li>Lunu-Midella</li>
+          <li>Garden maintenance</li>
+          <li>Lawn Mowing</li>
+          <li>Sod Installation and Fertilizing</li>
+          <li>Weed Control</li>
+          <li>Tree & Hedge trimming</li>
+          <li>Pruning</li>
+          <li>Garden Cleaning</li>
+          <li>Planting</li>
 
         </ul>
 
       </li>
 
-      <li>Woodworking</li>
-      <li>Wood staining</li>
-      <li>Wood rot replacement</li>
+    </ul>
+
+  </li>
+  <li>
+
+    <ul id="collapsible-ul">
+      <li><span class="caret">Movers</span>
+
+        <ul class="nested">
+          <li>Van</li>
+          <li>Cab</li>
+          <li>Lorry</li>
+
+        </ul>
+
+      </li>
 
     </ul>
 
   </li>
-</ul>
+  <li>
 
-<ul id="collapsible-ul">
-  <li><span class="caret">Plumbing & Drainage</span>
+    <ul id="collapsible-ul">
+      <li><span class="caret">Painting services</span>
 
-    <ul class="nested">
-      <li>Plumbing Repair And Installation Services</li>
-      <li>Toilet Repair And Installation</li>
-      <li>Kitchen Plumbing</li>
-      <li>Bathroom Plumbing</li>
-      <li>Leak Detection</li>
-      <li>Hot & Cold Water Supply Systems</li>
+        <ul class="nested">
+          <li>Residential Painting Services</li>
+          <li>Interior painting</li>
+          <li>Exterior painting</li>
+          <li>Floor painting</li>
+          <li>Deck & Fence painting</li>
+          <li>Eco-friendly painting</li>
+          <li>Pressure washing</li>
 
-    </ul>
+        </ul>
 
-  </li>
-</ul>
-
-<ul id="collapsible-ul">
-  <li><span class="caret">Aluminium & Finishes</span>
-
-    <ul class="nested">
-      <li>Partitions</li>
-      <li>Tempered Glass</li>
-      <li>Curtain Walls</li>
-      <li>Other aluminium works</li>
+      </li>
 
     </ul>
 
   </li>
-</ul>
+  <li>Wall crack solutions</li>
+  <li>Masonry</li>
+  <li>
 
-<ul id="collapsible-ul">
-  <li><span class="caret">Light Metal Work</span>
+    <ul id="collapsible-ul">
+      <li><span class="caret">Water Proofing</span>
 
-    <ul class="nested">
-      <li>Custom designs</li>
-      <li>Light metal fabrication</li>
-      <li>Sheet metal fabrication</li>
-      <li>Metal cutting</li>
-      <li>Decorative metal plates</li>
-      <li>Custom metal interior products</li>
+        <ul class="nested">
+          <li>Floor coating</li>
+          <li>Protective coatings</li>
+          <li>Underwater coatingss</li>
+          <li>Basement Waterproofing</li>
+          <li>Damp Proofing - Rising Dampness</li>
+          <li>Waterproofing – Terraces</li>
+          <li>Waterproofing - Bathrooms</li>
+          <li>Joint Sealing & Grouting</li>
+          <li>Slab Waterproofing</li>
+          <li>Swimming Pool Waterproofing</li>
+          <li>Wall Waterproofing</li>
+          <li>Rooftop Waterproofing</li>
+          <li>Kitchen Waterproofing</li>
+          <li>Water Tank Waterproofing</li>
+
+        </ul>
+
+      </li>
+
+    </ul>
+
+  </li>
+  <li>
+
+    <ul id="collapsible-ul">
+      <li><span class="caret">Carpentry & Joinery</span>
+
+        <ul class="nested">
+          <li>General carpentry services</li>
+          <li><span class="caret">Different wood types</span>
+            <ul class="nested">
+              <li>Teak</li>
+              <li>Mahogany</li>
+              <li>Burutha</li>
+              <li>Kumbuk</li>
+              <li>Nedun</li>
+              <li>Kolon</li>
+              <li>Jak</li>
+              <li>Halmilla</li>
+              <li>Kaluwara (Ebony)</li>
+              <li>Lunu-Midella</li>
+
+            </ul>
+
+          </li>
+
+          <li>Woodworking</li>
+          <li>Wood staining</li>
+          <li>Wood rot replacement</li>
+
+        </ul>
+
+      </li>
+
+    </ul>
+
+  </li>
+  <li>
+
+    <ul id="collapsible-ul">
+      <li><span class="caret">Plumbing & Drainage</span>
+
+        <ul class="nested">
+          <li>Plumbing Repair And Installation Services</li>
+          <li>Toilet Repair And Installation</li>
+          <li>Kitchen Plumbing</li>
+          <li>Bathroom Plumbing</li>
+          <li>Leak Detection</li>
+          <li>Hot & Cold Water Supply Systems</li>
+
+        </ul>
+
+      </li>
+
+    </ul>
+
+  </li>
+  <li>
+
+    <ul id="collapsible-ul">
+      <li><span class="caret">Aluminium & Finishes</span>
+
+        <ul class="nested">
+          <li>Partitions</li>
+          <li>Tempered Glass</li>
+          <li>Curtain Walls</li>
+          <li>Other aluminium works</li>
+
+        </ul>
+
+      </li>
+
+    </ul>
+
+  </li>
+  <li>
+
+    <ul id="collapsible-ul">
+      <li><span class="caret">Light Metal Work</span>
+
+        <ul class="nested">
+          <li>Custom designs</li>
+          <li>Light metal fabrication</li>
+          <li>Sheet metal fabrication</li>
+          <li>Metal cutting</li>
+          <li>Decorative metal plates</li>
+          <li>Custom metal interior products</li>
+
+        </ul>
+
+      </li>
 
     </ul>
 
