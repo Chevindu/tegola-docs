@@ -45,6 +45,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
         <li>3D visualization of house designs</li>
         <li>Recreational planning & Design</li>
         <li>Renovations & remodeling</li>
+
     </ul>
 
   </li>
@@ -61,6 +62,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
         <li>Specifying, materials, colours & floor treatments</li>
         <li>Project management</li>
         <li>Exhibition stalls designs</li>
+
     </ul>
 
   </li>
@@ -90,6 +92,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
                 <li>Condominium building</li>
             </ul>
         </li>
+
     </ul>
 
   </li>
@@ -119,6 +122,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
         <li>Construction Management</li>
         <li>Site Clearance & Demolition works</li>
         <li>Solid Waste Management</li>
+
     </ul>
 
   </li>
@@ -154,6 +158,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
                 <li>Other bathroom repair services</li>
             </ul>
         </li>
+
     </ul>
 
   </li>
@@ -181,6 +186,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
         <li>Rooftop garden design</li>
         <li>Streetscape design</li>
         <li>Project management</li>
+
     </ul>
 
   </li>
@@ -204,6 +210,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
         <li>Garden maintenance</li>
         <li>Vertical Gardens</li>
         <li>Kitchen Garden - Landscaping</li>
+
     </ul>
 
   </li>
@@ -230,6 +237,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
                 <li>Pool Equipment Maintenance</li>
             </ul>
         </li>
+
     </ul>
 
   </li>
@@ -250,6 +258,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
         <li>Consultations</li>
         <li>Sustainable and Green Buildings</li>
         <li>Sewer Collection Design and Permitting</li>
+
     </ul>
 
   </li>
@@ -272,6 +281,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
         <li>Planning and Scheduling</li>
         <li>Architectural Consultancy</li>
         <li>Dispute Resolution</li>
+
     </ul>
 
   </li>
@@ -288,6 +298,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
         <li>Construct custom designs</li>
         <li>Container conversion designing</li>
         <li>Maintenance</li>
+
     </ul>
 
   </li>
@@ -305,6 +316,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
         <li>Wooden pantries</li>
         <li>Aluminium pantries</li>
         <li>Stainless steel pantries</li>
+
     </ul>
 
   </li>
@@ -325,6 +337,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
         <li>Stone Walkways & Paths</li>
         <li>PVC Decking</li>
         <li>Capped Polymer Decking</li>
+
     </ul>
 
   </li>
@@ -351,6 +364,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
         <li>uPVC doors</li>
         <li>Casement doors</li>
         <li>Aluminium doors</li>
+
     </ul>
 
   </li>
@@ -375,6 +389,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
         <li>Linoleum flooring</li>
         <li>Carpet flooring</li>
         <li>Baseboards</li>
+
     </ul>
 
   </li>
@@ -396,6 +411,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
         <li>Wall arts</li>
         <li>wall sculpture</li>
         <li>Wall décor</li>
+
     </ul>
 
   </li>
@@ -412,6 +428,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
         <li>Embroidered cushion covers</li>
         <li>Custom sofa pillow covers</li>
         <li>Cusion cover for Apartments and Hotels</li>
+
     </ul>
 
   </li>
@@ -437,6 +454,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
         <li>Reclaimed Wood Countertops</li>
         <li>Stainless Steel Countertops</li>
         <li>Porcelain Countertops</li>
+
     </ul>
 
   </li>
@@ -467,6 +485,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
                 <li>Monsoon blinds</li>
             </ul>
         </li>
+
     </ul>
 
   </li>
@@ -493,6 +512,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
         <li>Custom graphic cladding</li>
         <li>Decorative cladding boards</li>
         <li>Screenwood External Systems</li>
+
     </ul>
 
   </li>
@@ -512,6 +532,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
         <li>Interior stone wall cladding</li>
         <li>Decorative wall cladding</li>
         <li>Other wall cladding methods</li>
+
     </ul>
 
   </li>
@@ -531,6 +552,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
         <li>Pelmets and Valances</li>
         <li>Window Scarf</li>
         <li>Cafe Curtains</li>
+
     </ul>
 
   </li>
@@ -555,6 +577,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
         <li>Tensile membranes</li>
         <li>Parking shades</li>
         <li>Shadesail</li>
+
     </ul>
 
   </li>
@@ -569,6 +592,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
         <li>Ceiling</li>
         <li>Gutters</li>
         <li>Crown molding</li>
+
     </ul>
 
   </li>
@@ -589,6 +613,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
         <li>Fire resistant doors</li>
         <li>Industrial type roller shutters</li>
         <li>Custom gates</li>
+
     </ul>
 
   </li>
@@ -612,6 +637,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
         <li>Escalator repairing</li>
         <li>Moving walks</li>
         <li>Repairing mooving walks</li>
+
     </ul>
 
   </li>
@@ -628,6 +654,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
         <li>Alluminium handrails</li>
         <li>Balcony designs</li>
         <li>Stair case designs</li>
+
     </ul>
 
   </li>
@@ -657,6 +684,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
                 <li>Other furniture repair services</li>
             </ul>
         </li>
+
     </ul>
 
   </li>
@@ -674,6 +702,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
         <li>Biometric access control</li>
         <li>Privacy & personal security</li>
         <li>Home automation</li>
+
     </ul>
 
   </li>
@@ -688,6 +717,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
         <li>Solar pumping systems</li>
         <li>Solar hot water systems</li>
         <li>Rooftop solar installations</li>
+
     </ul>
 
   </li>
@@ -707,6 +737,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
         <li>Spa Consultancy</li>
         <li>Spa constructing</li>
         <li>Spa designing</li>
+
     </ul>
 
   </li>
@@ -718,6 +749,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
     <ul class="nested">
         <li>Saunas & steam rooms designing</li>
         <li>Saunas & steam rooms Constructing</li>
+
     </ul>
 
   </li>
@@ -739,6 +771,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
         <li>Plant installations</li>
         <li>Designing custom plants</li>
         <li>Maintenance</li>
+
     </ul>
 
   </li>
@@ -760,6 +793,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
         <li>Facade Illumination</li>
         <li>Landscape Illumination</li>
         <li>Lighting consultations</li>
+
     </ul>
 
   </li>
@@ -781,6 +815,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
         <li>Customised solutions </li>
         <li>Consultation Service</li>
         <li>Maintenance</li>
+
     </ul>
 
   </li>
@@ -799,6 +834,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
         <li>Domestic Pest Control</li>
         <li>Commercial Pest Control</li>
         <li>Pest Audits</li>
+
     </ul>
 
   </li>
@@ -1208,8 +1244,11 @@ Talented individuals who provide construction industry related services fall und
           <li>Pleated Blinds</li>
           <li>Silhouette blinds</li>
           <li>Monsoon blinds</li>
+
         </ul>
+
       </li>
+
     <li>Sliding windows</li>
       <li>Casement windows</li>
 
@@ -1343,7 +1382,9 @@ Talented individuals who provide construction industry related services fall und
           <li>Wood furniture repair</li>
           <li>Furniture Assembly</li>
           <li>Other furniture repair services</li>
+
         </ul>
+
       </li>
 
     </ul>
@@ -1353,111 +1394,204 @@ Talented individuals who provide construction industry related services fall und
 
 ### Home Services
 
-* Air conditioning repair
+<ul class="profiles-list">
+  <li>Air conditioning repair</li>
+  <li>Washing machine repair</li>
+  <li>Refrigerator repair</li>
+  <li>TV repair</li>
+  <li>
 
-* Washing machine repair
+    <ul id="collapsible-ul">
+      <li><span class="caret">Electricals repair</span>
 
-* Refrigerator repair
+        <ul class="nested">
+          <li>Oven</li>
+          <li>Iron</li>
+          <li>Electric water boilers</li>
+          <li>Blenders</li>
 
-* TV repair
+        </ul>
 
-* Electricals repair
-    - Oven
-    - Iron
-    - Electric water boilers
-    - Blenders
+      </li>
 
-* Electrical services
-    - Residential electrical services
-    - Home electrical wiring
-    - Distribution board installation
-    - Indoor & outdoor lighting
-    - Electrical replacements and repair
-    - 3 Phase conversions
-    - Trouble Shooting Electrical Leakage
+    </ul>
 
-* Garden & Lawn care
-    - Garden maintenance
-    - Lawn Mowing
-    - Sod Installation and Fertilizing
-    - Weed Control
-    - Tree & Hedge trimming
-    - Pruning
-    - Garden Cleaning
-    - Planting
+  </li>
+  <li>
 
-* Movers
-    - Van
-    - Cab
-    - Lorry
+    <ul id="collapsible-ul">
+      <li><span class="caret">Electrical services</span>
 
-* Painting services
-    - Residential Painting Services
-    - Interior painting
-    - Exterior painting
-    - Floor painting
-    - Deck & Fence painting
-    - Eco-friendly painting
-    - Pressure washing
+        <ul class="nested">
+          <li>Residential electrical services</li>
+          <li>Home electrical wiring</li>
+          <li>Distribution board installation</li>
+          <li>Indoor & outdoor lighting</li>
+          <li>Electrical replacements and repair</li>
+          <li>3 Phase conversions</li>
+          <li>Trouble Shooting Electrical Leakage</li>
+
+        </ul>
+
+      </li>
+
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Garden & Lawn care</span>
+
+    <ul class="nested">
+      <li>Garden maintenance</li>
+      <li>Lawn Mowing</li>
+      <li>Sod Installation and Fertilizing</li>
+      <li>Weed Control</li>
+      <li>Tree & Hedge trimming</li>
+      <li>Pruning</li>
+      <li>Garden Cleaning</li>
+      <li>Planting</li>
+
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Movers</span>
+
+    <ul class="nested">
+      <li>Van</li>
+      <li>Cab</li>
+      <li>Lorry</li>
+
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Painting services</span>
+
+    <ul class="nested">
+      <li>Residential Painting Services</li>
+      <li>Interior painting</li>
+      <li>Exterior painting</li>
+      <li>Floor painting</li>
+      <li>Deck & Fence painting</li>
+      <li>Eco-friendly painting</li>
+      <li>Pressure washing</li>
+
+    </ul>
+
+  </li>
+</ul>
 
 * Wall crack solutions
 
 * Masonry
 
-* Water Proofing
-    - Floor coating
-    - Protective coatings
-    - Underwater coatingss
-    - Basement Waterproofing
-    - Damp Proofing - Rising Dampness
-    - Waterproofing – Terraces
-    - Waterproofing - Bathrooms
-    - Joint Sealing & Grouting
-    - Slab Waterproofing
-    - Swimming Pool Waterproofing
-    - Wall Waterproofing
-    - Rooftop Waterproofing
-    - Kitchen Waterproofing
-    - Water Tank Waterproofing
+<ul id="collapsible-ul">
+  <li><span class="caret">Water Proofing</span>
 
-* Carpentry & Joinery
-    - General carpentry services
-    - Different wood types
-        - Teak
-        - Mahogany
-        - Burutha
-        - Kumbuk
-        - Nedun
-        - Kolon
-        - Jak
-        - Halmilla
-        - Kaluwara (Ebony)
-        - Lunu-Midella
-    - Woodworking
-    - Wood staining
-    - Wood rot replacement
+    <ul class="nested">
+      <li>Floor coating</li>
+      <li>Protective coatings</li>
+      <li>Underwater coatingss</li>
+      <li>Basement Waterproofing</li>
+      <li>Damp Proofing - Rising Dampness</li>
+      <li>Waterproofing – Terraces</li>
+      <li>Waterproofing - Bathrooms</li>
+      <li>Joint Sealing & Grouting</li>
+      <li>Slab Waterproofing</li>
+      <li>Swimming Pool Waterproofing</li>
+      <li>Wall Waterproofing</li>
+      <li>Rooftop Waterproofing</li>
+      <li>Kitchen Waterproofing</li>
+      <li>Water Tank Waterproofing</li>
 
-* Plumbing & Drainage
-    - Plumbing Repair And Installation Services
-    - Toilet Repair And Installation
-    - Kitchen Plumbing
-    - Bathroom Plumbing
-    - Leak Detection
-    - Hot & Cold Water Supply Systems
+    </ul>
 
-* Aluminium & Finishes
-    - Partitions
-    - Tempered Glass
-    - Curtain Walls
-    - Other aluminium works
+  </li>
+</ul>
 
-* Light Metal Work
-    - Custom designs
-    - Light metal fabrication
-    - Sheet metal fabrication
-    - Metal cutting
-    - Decorative metal plates
-    - Custom metal interior products
+<ul id="collapsible-ul">
+  <li><span class="caret">Carpentry & Joinery</span>
+
+    <ul class="nested">
+      <li>General carpentry services</li>
+      <li><span class="caret">Different wood types</span>
+        <ul class="nested">
+          <li>Teak</li>
+          <li>Mahogany</li>
+          <li>Burutha</li>
+          <li>Kumbuk</li>
+          <li>Nedun</li>
+          <li>Kolon</li>
+          <li>Jak</li>
+          <li>Halmilla</li>
+          <li>Kaluwara (Ebony)</li>
+          <li>Lunu-Midella</li>
+
+        </ul>
+
+      </li>
+
+      <li>Woodworking</li>
+      <li>Wood staining</li>
+      <li>Wood rot replacement</li>
+
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Plumbing & Drainage</span>
+
+    <ul class="nested">
+      <li>Plumbing Repair And Installation Services</li>
+      <li>Toilet Repair And Installation</li>
+      <li>Kitchen Plumbing</li>
+      <li>Bathroom Plumbing</li>
+      <li>Leak Detection</li>
+      <li>Hot & Cold Water Supply Systems</li>
+
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Aluminium & Finishes</span>
+
+    <ul class="nested">
+      <li>Partitions</li>
+      <li>Tempered Glass</li>
+      <li>Curtain Walls</li>
+      <li>Other aluminium works</li>
+
+    </ul>
+
+  </li>
+</ul>
+
+<ul id="collapsible-ul">
+  <li><span class="caret">Light Metal Work</span>
+
+    <ul class="nested">
+      <li>Custom designs</li>
+      <li>Light metal fabrication</li>
+      <li>Sheet metal fabrication</li>
+      <li>Metal cutting</li>
+      <li>Decorative metal plates</li>
+      <li>Custom metal interior products</li>
+
+    </ul>
+
+  </li>
+</ul>
 
 ## Fresh Graduate
 
