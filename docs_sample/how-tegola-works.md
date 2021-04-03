@@ -10,9 +10,13 @@ From here on, the word "Service Provider(s)” refers to a user profile that bel
 
 ### 60+ main categories 450+ sub categories and growing
 
+![Categories](/images/hhw-clients-1.svg){: .body-img-mid }
+
 This is the place you can find the service providers related to construction and home industry. You can compare their profiles and portfolio to find their services and make your pick.
 
 ### Profile / Project based filtering
+
+![Filtering](/images/hhw-clients-2.svg){: .body-img-mid }
 
 This feature enables you to compare between not only profiles but also projects. Using the filter section and you can easily identify Service Providers who are within your budget and who matches to your concept styles.
 
@@ -32,7 +36,6 @@ With the service provider categorisation, you have the full control on whom to c
 
 All the main services are divided into their unique sub-services. So with Tegola, you can select the exact service you seek and find the service providers who offer that service.
 
-
 ## For Service Providers
 
 ### Create profiles and publish projects / services
@@ -46,4 +49,3 @@ Industry professionals and companies from selected categories can now hire a des
 ### Exposure to a large audience
 
 All of our profile creators are exposed to a huge audience who are interested in home industry related services. We ensure to bring a continuous traffic to the platform using unique strategies.
-

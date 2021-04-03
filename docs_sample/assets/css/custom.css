@@ -63,3 +63,10 @@
 #collapsible-ul .nested li {
     margin-left: 14px;
 }
+
+img.body-img-mid {
+    width: 100%;
+    max-width: 300px;
+    display: block;
+    margin: auto;
+}
