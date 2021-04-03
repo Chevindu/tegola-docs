@@ -10,29 +10,37 @@ From here on, the word "Service Provider(s)” refers to a user profile that bel
 
 ### 60+ main categories 450+ sub categories and growing
 
-![Categories](/images/hhw-clients-1.svg){: .body-img-mid }
+![Categories](/images/hhw-clients-1.svg){: .body-img .body-img-mid loading=lazy }
 
 This is the place you can find the service providers related to construction and home industry. You can compare their profiles and portfolio to find their services and make your pick.
 
 ### Profile / Project based filtering
 
-![Filtering](/images/hhw-clients-2.svg){: .body-img-mid }
+![Filtering](/images/hhw-clients-2.svg){: .body-img .body-img-mid loading=lazy }
 
 This feature enables you to compare between not only profiles but also projects. Using the filter section and you can easily identify Service Providers who are within your budget and who matches to your concept styles.
 
 ### 3 Steps, and you can find a Service Provider
 
+![Find a Service Provider](/images/hhw-clients-3.svg){: .body-img .body-img-wide loading=lazy }
+
 First, select your main service. Then go through the list of Service Providers, after adjusting the filters to your preference. Finally, check out their profiles for more info and contact them.
 
 ### Save now to compare later
+
+![Save and Compare](/images/hhw-clients-4.svg){: .body-img .body-img-mid loading=lazy }
 
 Save your favourite profiles, projects for later reference. You can use this as an idea pad. If you are in the process of designing your home, you can save interesting projects from architects to compare them and make a better judgement.
 
 ### We do not chose for you, you are in control
 
+![You are in control](/images/hhw-clients-5.svg){: .body-img .body-img-mid loading=lazy }
+
 With the service provider categorisation, you have the full control on whom to choose. Let it be a professional, company or an individual, the choice is yours.
 
 ### Search by the exact service
+
+![Search by Service](/images/hhw-clients-6.svg){: .body-img .body-img-mid loading=lazy }
 
 All the main services are divided into their unique sub-services. So with Tegola, you can select the exact service you seek and find the service providers who offer that service.
 

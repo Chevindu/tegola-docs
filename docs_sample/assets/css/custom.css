@@ -64,9 +64,16 @@
     margin-left: 14px;
 }
 
-img.body-img-mid {
+img.body-img {
     width: 100%;
-    max-width: 300px;
     display: block;
     margin: auto;
+}
+
+img.body-img-mid {
+    max-width: 300px;
+}
+
+img.body-img-wide {
+    max-width: 600px;
 }
