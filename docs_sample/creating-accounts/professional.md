@@ -1,19 +1,20 @@
 # Professional Profiles
 
-Follow these steps to create a professional account (Click here<=leads to 5 main categories explained doc> if you are in doubt on what type of account to create). If you are in a hurry,we kindly ask you to come back with some time, since this process is quite serious and we expect your full commitment in completing the account. 
+Follow these steps to create a professional account ([Click here](/creating-accounts/account-types) if you are in doubt on what type of account to create). If you are in a hurry, we kindly ask you to come back with some time, since this process is quite serious and we expect your full attention in completing the account. 
 
-If you are good to go, then let’s proceed :)
+If you are good to go, let’s proceed. :slightly_smiling_face:
 
 ## Step 1 - Find path
 
 Follow the path below from the homepage or simply click here<=links to professional route> to get started.
-Sign up > Create a service Provider Account > Professional.
+
+Sign up → Create a service Provider Account → Professional
 
 ## Step 2 - Category selection
 
 From five main categories mentioned here, select the category/categories that you have experience and qualifications to work as a professional. You can select upto 3 categories.
 
-Click here<=Leeds to professional part of 5 main categories explained doc> for more information on these categories
+[Click here](/creating-accounts/account-types#professional) for more information on these categories.
 
 Click “Next” to continue.
 
@@ -89,6 +90,6 @@ Here’s your profile. But that’s not all. Complete your account by adding pro
 
 Also you can add awards and your projects from your profile.
 
-Click here <=leads to Profile features - explained doc> for more information on completing your account.
+[Click here](/completing-profiles/features) for more information on completing your account.
 
 Good luck with your future career with tegola.lk

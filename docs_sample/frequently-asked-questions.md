@@ -8,7 +8,7 @@ To fix this, click on the edit icon in the map view box in profile view, Make su
 
 Now your location is publicly visible.
 
-Click here for more information on location settings
+[Click here](/completing-profiles/features/#map_location) for more information on location settings.
 
 ## I can’t add more projects to my profile. Why?
 
@@ -26,7 +26,7 @@ Undergraduate accounts    : 10 per category
 
 Currently we only offer paid accounts for companies. If you are an industry professional, Individual, fresh graduate or an undergraduate you can maintain your profile free of charge in tegola.lk. Even for company accounts, we have a free plan for startups and small scale businesses.
 
-[Click here](https://tegola.lk/company-pricing) for company plans.
+[Click here](https://tegola.lk/company-pricing){ target=_blank } for company plans.
 
 ## What are the available payment methods to create a company account?
 

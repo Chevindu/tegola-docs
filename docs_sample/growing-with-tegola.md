@@ -1,8 +1,8 @@
 ## How to grow your business with Tegola
 
-Tegola.lk is a service based online platform dedicated to local construction and home industry. Companies who cater to our local construction industry providing any [related services](https://tegola.lk/how-to-create#company), are eligible to create and maintain a profile in Tegola. Hence you will be exposed to huge potential audience who seeks for service providers like you :)
+Tegola.lk is a service based online platform dedicated to local construction and home industry. Companies who cater to our local construction industry providing any [related services](/creating-accounts/account-types#company), are eligible to create and maintain a profile in Tegola. Hence you will be exposed to huge potential audience who seeks for service providers like you :)
 
-The top gain you'll have by maintaining a profile in Tegola.lk is that you will be found by people when they are in need. You know that's what should be the scenario in Construction industry. ([Check out paid memberships](https://tegola.lk/paid-membership))
+The top gain you'll have by maintaining a profile in Tegola.lk is that you will be found by people when they are in need. You know that's what should be the scenario in Construction industry. ([Learn more on paid memberships](/company-accounts/paid-membership))
 
 Here we have brought you few tips on how to maintain a great profile in Tegola.lk
 
@@ -10,7 +10,7 @@ Here we have brought you few tips on how to maintain a great profile in Tegola.l
 
 The very first thing you need to do is taking a forward step and create a profile in Tegola.lk. We highly encourage you to go with a paid membership which allows you to play with more features and help more people to find you. If have done this part already, congratulations! you have already started the game.
 
-Don't have an account yet? No worries, [take the first step](https://tegola.lk/how-to-create) before making it to the next one.
+Don't have an account yet? No worries, [take the first step](/creating-accounts/account-types) before making it to the next one.
 
 ## Fill all the voids
 
@@ -28,11 +28,14 @@ Projects act a major role in Tegola.lk. There is a project based filtering secti
 
 Tegola.lk always value quality and real images. Make sure you use quality images in your projects, Cover image and featured images. Don't use leaflet or advertisement type images specially in projects category. It's a good idea to get the assistance of a professional photographer in covering your projects.
 
-## Be in the GAME
+## Be in the Game
 
 Always keep updating your recent works in your profile. Add your recent projects and add any new featuring of your company.
-Sooner The Better
+
+## Sooner The Better
 
 Finally the day you create your profile matters in Tegola.lk. In our continuously developing search results algorithm depends on tons of factors. The age of your profile is one of them. So make sure you create your profile as soon as possible. Bhalagiri will not be your friend in Tegola :)
 
 That's it. We wish you all the best for your business career with Tegola.lk
+
+[Create your profile TODAY!](https://tegola.lk/create){ target=_blank }
