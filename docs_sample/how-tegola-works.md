@@ -48,12 +48,18 @@ All the main services are divided into their unique sub-services. So with Tegola
 
 ### Create profiles and publish projects / services
 
+![Projects in Profile](/images/hhw-sp-1.svg){: .body-img .body-img-mid loading=lazy }
+
 The Service Providers in the industry are eligible to create profiles in Tegola. Doing that, you can publish your projects and the services you provide. It opens the door for thousands of clients to locate your store and contact you.
 
 ### Hire an Apprentice
 
+![Hire and Apprentice](/images/hhw-sp-2.svg){: .body-img .body-img-mid loading=lazy }
+
 Industry professionals and companies from selected categories can now hire a design apprentice to outsource their modelling work. This enables professionals some relaxation while ensuring the industry exposure of design undergraduates and fresh graduates.
 
 ### Exposure to a large audience
+
+![Large Audience](/images/hhw-sp-3.svg){: .body-img .body-img-mid loading=lazy }
 
 All of our profile creators are exposed to a huge audience who are interested in home industry related services. We ensure to bring a continuous traffic to the platform using unique strategies.
