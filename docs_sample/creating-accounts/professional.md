@@ -6,9 +6,9 @@ If you are good to go, let’s proceed. :slightly_smiling_face:
 
 ## Step 1 - Find path
 
-Follow the path below from the homepage or simply click here<=links to professional route> to get started.
+Follow the path below from the home page to get started.
 
-Sign up → Create a service Provider Account → Professional
+Sign up :material-arrow-right-bold-outline: Create a service Provider Account :material-arrow-right-bold-outline: Professional
 
 ## Step 2 - Category selection
 
@@ -20,76 +20,76 @@ Click “Next” to continue.
 
 ## Step 3 - Personal details
 
-Fill out all the blanks with your personal details. Password length should be more than 6 characters. Once you complete the filling, click on the “Verify Email” button. This sends a 4 digit number to the given email address. Now check your emails,remember the 4 digit number and type it in the pop up window.
+Fill out all the fields with your details. Password length should be more than 6 characters. Once you are done, click on “Verify Email”. This sends a 4 digit number to the given email address. Now check your emails,remember the 4 digit number and type it in the pop up window.
 
-For some reason if you didn’t get an email, kindly check your social and promotion tab and also in the spam folder. If you still couldn’t find the email you may click on the “Resend verification code” link in the pop up window.
+!!! info
+    If you don't see an email from us in your inbox, kindly check in the spam folder. If you are using Gmail, it might have landed on the "Social" or "Promotions" tabs as well. If you still couldn’t find the email, try clicking “Resend verification code” in the pop up window.
 
-If everything is fine, click on the “Verify Email” button. You’ll see a tick in front of your email address, if your email is verified.
+If everything is fine, click on the “Verify Email” button. You’ll see a check mark (:material-check:) in front of your email address, if your email is verified.
 
-Now click on the “Next” button to go to the next step
+Click “Next” to go to the next step.
 
 ## Step 4 - Contact Details
 
-First add your working address here. It may be your residence or office address. You can add your address into 3 or 4 lines.
+You can add your workplace address here. It may be your residence or an office address.
 
-Then in google map view, drag and drop the green colour pin into your correct location. You can zoom in and out the map using plus and minus buttons in the bottom right corner of the map view. Once you pinned the location correctly tick on the check box “Above pinned location is correct”. Your location is taken if and only if the checkbox is ticked. You can leave the check box unticked if you don’t wish to add your map location to your profile.
+In the map view, drag and drop the green marker onto your location. You can zoom in and out of the map using plus (:material-plus:) and minus (:material-minus:) buttons in the bottom right corner of the map view. After pinning the location correctly, click on the checkbox “Above pinned location is correct”. Your location is taken into Tegola system if (and only if) that checkbox is ticked. You can leave the checkbox unticked if you don’t wish to add your location to your profile.
 
-Then select your working area from the drop down menu. First select the district and then select the city. This is used when the search results are filtered with location of a client.
+Then, select your working area from the drop-down menu. First select the district, and then the city. This is used to identify you, when search results are filtered by location.
 
-Then add your phone number. Input should be 10 numbers. Do not enter your phone number with the country cord (+94).
+Then add your phone number. Input length should be 10 digits. Please enter your phone number without the country code (+94).
 
-You can add a website link and your social media page or profile links here. Add the full URL of the links as shown in the text boxes. Leave it if you don’t want to add.
+You can add a website link and your social media links here. Add the full URL of the links as shown in the text boxes. Leave them empty if you will.
 
-Once complete this step, click on “Next” button to move to the next step.
+Once this step is done, click on “Next” to move on.
 
 ## Step 5 - Your Qualifications
 
-Here’s the space to add your qualifications.
+This is the step to add your qualifications.
 
-To add your degree/degrees type the degree name in “type degree here” textbox and the usiversity in “type university here” text box. Then click on “+” icon. It only takes the data once you click on the “+” button. You can add more than one degrees if you have as the same method. A maximum of 4 degrees can be added.
+To add your degree(s), type the degree name in “Type degree here” textbox and the university name in “Type university here” textbox. Then click on “:material-plus:” icon. System only reads the data once you click on the “:material-plus:” button. You can add more than one degree using the same procedure. A maximum of 4 degrees can be added.
 
-As the same you may add any other qualifications apart from your degree/s under “other qualifications: section. Maximum is 15 qualifications.
+You may add any other qualifications apart from degree(s) under “Other qualifications" section. Maximum is 15 qualifications.
 
 Leave the qualification textboxes empty if you don’t want to add your qualifications.
 
-Next add your experience as a professional by years.
+Next add your experience as a professional, in years.
 
 Click “Next” for the next step.
 
 ## Step 6 - Tell us who you are
 
-If you want you can skip this step and fill it later after login into your account. To skip, click on the “Skip” button without filling anything in text boxes.
+You can skip this step and fill it later if you wish, after logging into your account. To skip, click on the “Skip” button without filling anything in text boxes.
 
 ### Cover statement
 
-A single sentence that describes all your hard work, concept styles or experience. This will also appear in profile search results. Length should be within 500 characters.
+A single sentence that describes all your work, concepts, styles or experience. This will also appear in profile search results. Length should be less than 500 characters.
 
 ### Profile description
 
-Here’s the big part. You have been given 5000 characters to describe all about you, your talents, your concepts, awards, your journey and everything else.
+Story time! You are given 5000 characters to describe all about you, your talents, your concepts, awards, your journey and everything else.
 
 ### Special facts
 
-This is your space for your own uniqueness. You are privileged with 8 maximum of special facts with 80 characters each. After filling, click on the “+” button to add it, making the textbox empty for another input.
+This is the space for your uniqueness. You are given with 8 slots to mention special facts about you, with 80 characters each. After filling, click on the “:material-plus:” button to add it, making the textbox empty for another input.
 
 Click on the “Next” button once you complete this section.
 
 ## Step 7 - Select the services
 
-At the beginning you selected the categories you wish to provide your services. This step breaks the categories into subcategories.
+In the beginning, you selected the categories under which you provide your services. This step breaks those categories into subcategories.
 
-Select all the services you are confident to provide and click on the “Finish” button to finish creating your account.
+Select all the services you are confident in providing and click on the “Finish” button to finish creating your account.
 
-Then you’ll see a “CONGRATULATIONS” page. To login your account click on “log in to your account” button.
+If all goes well, you will see a “CONGRATULATIONS” page. To login, click on “Log in to your account” button.
 
-Insert your account credentials and click the “Sign in” button.
+Insert your account credentials and click the “Sign in” button. Voila, you're in!
 
 
+You just created your profile. But that’s just the beginning of the journey. Complete your account by adding profile and cover pictures, the cover statement, profile description and any special facts.
 
-Here’s your profile. But that’s not all. Complete your account by adding profile and cover pictures, the cover statement, profile description, special facts if you skipped the step when creating your profile.
-
-Also you can add awards and your projects from your profile.
+You can also add awards and your projects to your profile.
 
 [Click here](/completing-profiles/features) for more information on completing your account.
 
-Good luck with your future career with tegola.lk
+Good luck on your future career with Tegola.lk :tada:
