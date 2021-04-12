@@ -1,45 +1,47 @@
 # Company Profiles
 
-Follow these steps to create a company account (Click here<leads to 5 main categories explained doc> if you are in doubt on what type of account to create). If you are in a hurry,we kindly ask you to come back with some time, since this process is quite serious and we expect your full commitment in completing the account.
+Follow these steps to create a company account ([Click here](/creating-accounts/account-types) if you are unsure about the type of account to create). If you are in a hurry, we kindly ask you to come back with some time, since this process is quite serious and we expect your full attention in completing the account. 
 
-If you are good to go, then let’s proceed :)
+If you are ready, then let’s proceed :slightly_smiling_face:
 
 ## Step 1 - Find path
 
-Follow the path below from the homepage or simply click here<links to company route> to get started.
-Sign up > Create a service Provider Account > Company
+Follow the path below from the homepage to get started.
+
+Sign up :material-arrow-right-bold-outline: Create a service Provider Account :material-arrow-right-bold-outline: Company
 
 ## Step 2 - Select a plan
 
-First pick a plan which suits your company the best. Click here<leads to company plans page> for a detailed comparison of each plan. We provide poth free and paid account plans. You may choose as you wish.
+First, select a plan which suits your company the best. [Click here](https://tegola.lk/company-pricing) for a detailed comparison of each plan. We provide both free and paid account plans. You may choose as you wish.
 
 For paid accounts, payment can be made through Visa or Master cards at the final step in creating the account.
 
-After selecting a plan click on the “Next” button.
+After selecting a plan, click on “Next”.
 
 ## Step 3 - Category selection
 
-From all categories listed here, select the category/categories that your company services lie on. The number of categories allowed to pick, depends on the plan you chose.
+From all categories listed here, select the category/categories that aligns with your company services. The number of categories allowed to pick depends on the plan you selected in the previous step.
 
-Click here<Leeds to company part of 5 main categories explained doc> for more information on these categories.
+[Click here](/creating-accounts/account-types) for more information on these categories.
 
 Click “Next” for the next step.
 
 ## Step 4 - Company Details
 
-Fill out all the blanks with your company details. Password length should be more than 6 characters. Once you complete the filling, click on the “Verify Email” button. This sends a 4 digit number to the given email address. Now check your emails,remember the 4 digit number and type it in the pop up window.
+Fill out all the fields with your company details. Password length should be more than 6 characters. Once you are done, click on “Verify Email”. This action sends a 4 digit number to the given email address. Check your your inbox for an email from us, remember the 4 digit number in it and use it in the pop up window.
 
-For some reason if you didn’t get an email, kindly check your social and promotion tab and also in the spam folder. If you still couldn’t find the email you may click on the “Resend verification code” link in the pop up window.
+!!! info
+    If you don't see an email from us in your inbox, kindly check in the spam folder. If you are using Gmail, it might have landed on the "Social" or "Promotions" tabs as well. If you still couldn’t find the email, try clicking “Resend verification code” in the pop up window.
 
-If everything is fine, click on the “Verify Email” button. You’ll see a tick in front of your email address, if your email is verified.
+If everything is fine, click on the “Verify Email” button. You’ll see a check mark (:material-check:) in front of your email address, if your email is verified.
 
-Now click on the “Next” button to go to the next step.
+Click “Next” to go to the next step.
 
 ## Step 5 - Contact Details
 
-First add your company address here. If the company has several branches, add the head office address here. You can add the address into 3 or 4 lines. Also chose the same location in drop down list. First select the district and then the city.
+You can add your company address here. If the company has several branches, use the address of the head office in here. You can add the address into 3 or 4 lines. Also select the same location from the drop-down list. First select the district, then the city.
 
-Then in google map view, drag and drop the green colour pin into your office location. You can zoom in and out the map using plus and minus buttons in the bottom right corner of the map view. Once you pinned the location correctly tick on the check box “Above pinned location is correct”. Your location is taken if and only if the checkbox is ticked. You can leave the check box unticked if you don’t wish to add your map location to your company profile.
+In the map view, drag and drop the green colour marker onto your office location. You can zoom in and out of the map using  ":material-plus:" and ":material-minus:" buttons in the bottom right corner of the map view.  After pinning the location correctly, click on the checkbox “Above pinned location is correct”. Your location is taken into Tegola system if (and only if) that checkbox is ticked. You can leave the checkbox unticked if you don’t wish to add your location to your company profile.
 
 Then add your company branch locations(if any) using the drop down menu. First select the district and then select the city and click on the “+” icon to add it. You can add multiple branch locations in the same way. This is used when the search results are filtered according to the location of a client. The maximum number of branches depends on the plan selected.
 

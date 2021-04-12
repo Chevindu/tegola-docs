@@ -20,10 +20,10 @@ Click “Next” to continue.
 
 ## Step 3 - Personal details
 
-Fill out all the fields with your details. Password length should be more than 6 characters. Once you are done, click on “Verify Email”. This sends a 4 digit number to the given email address. Now check your emails,remember the 4 digit number and type it in the pop up window.
+Fill out all the fields with your details. Password length should be more than 6 characters. Once you are done, click on “Verify Email”. This action sends a 4 digit number to the given email address. Now check your your inbox for an email from us, remember the 4 digit number and type it in the pop up window.
 
 !!! info
-    If you don't see an email from us in your inbox, kindly check in the spam folder. If you are using Gmail, it might have landed on the "Social" or "Promotions" tabs as well. If you still couldn’t find the email, try clicking “Resend verification code” in the pop up window.
+    If you don't see an email from us in your inbox, kindly check in the spam folder. If you are using Gmail, it might have landed on the "Social" or "Promotions" tabs as well. If you still couldn’t find the email, try clicking “Resend verification code” in the pop up window. Feel free to contact us on social media for further assistance.
 
 If everything is fine, click on the “Verify Email” button. You’ll see a check mark (:material-check:) in front of your email address, if your email is verified.
 
@@ -33,7 +33,7 @@ Click “Next” to go to the next step.
 
 You can add your workplace address here. It may be your residence or an office address.
 
-In the map view, drag and drop the green marker onto your location. You can zoom in and out of the map using plus (:material-plus:) and minus (:material-minus:) buttons in the bottom right corner of the map view. After pinning the location correctly, click on the checkbox “Above pinned location is correct”. Your location is taken into Tegola system if (and only if) that checkbox is ticked. You can leave the checkbox unticked if you don’t wish to add your location to your profile.
+In the map view, drag and drop the green marker onto your location. You can zoom in and out of the map using ":material-plus:" and ":material-minus:" buttons in the bottom right corner of the map view. After pinning the location correctly, click on the checkbox “Above pinned location is correct”. Your location is taken into Tegola system if (and only if) that checkbox is ticked. You can leave the checkbox unticked if you don’t wish to add your location to your profile.
 
 Then, select your working area from the drop-down menu. First select the district, and then the city. This is used to identify you, when search results are filtered by location.
 
@@ -48,6 +48,9 @@ Once this step is done, click on “Next” to move on.
 This is the step to add your qualifications.
 
 To add your degree(s), type the degree name in “Type degree here” textbox and the university name in “Type university here” textbox. Then click on “:material-plus:” icon. System only reads the data once you click on the “:material-plus:” button. You can add more than one degree using the same procedure. A maximum of 4 degrees can be added.
+
+!!! attention
+    When adding qualifications, Tegola system only reads your data once you click on the “:material-plus:” button. If you fill up the details regarding your qualification but do not click on “:material-plus:” to add them, you information will not be saved.
 
 You may add any other qualifications apart from degree(s) under “Other qualifications" section. Maximum is 15 qualifications.
 
@@ -83,7 +86,7 @@ Select all the services you are confident in providing and click on the “Finis
 
 If all goes well, you will see a “CONGRATULATIONS” page. To login, click on “Log in to your account” button.
 
-Insert your account credentials and click the “Sign in” button. Voila, you're in!
+Insert your account credentials and click the “Sign in” button. Voila, you're in! :tada:
 
 
 You just created your profile. But that’s just the beginning of the journey. Complete your account by adding profile and cover pictures, the cover statement, profile description and any special facts.
@@ -92,4 +95,4 @@ You can also add awards and your projects to your profile.
 
 [Click here](/completing-profiles/features) for more information on completing your account.
 
-Good luck on your future career with Tegola.lk :tada:
+Good luck on your future career with Tegola.lk!
