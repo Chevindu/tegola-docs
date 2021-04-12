@@ -2,7 +2,7 @@
 
 Follow these steps to create a professional account ([Click here](/creating-accounts/account-types) if you are in doubt on what type of account to create). If you are in a hurry, we kindly ask you to come back with some time, since this process is quite serious and we expect your full attention in completing the account. 
 
-If you are good to go, let’s proceed. :slightly_smiling_face:
+If you are ready, let’s proceed. :slightly_smiling_face:
 
 ## Step 1 - Find path
 
@@ -31,7 +31,7 @@ Click “Next” to go to the next step.
 
 ## Step 4 - Contact Details
 
-You can add your workplace address here. It may be your residence or an office address.
+You can add your workplace address here. It can be your residence or an office address.
 
 In the map view, drag and drop the green marker onto your location. You can zoom in and out of the map using ":material-plus:" and ":material-minus:" buttons in the bottom right corner of the map view. After pinning the location correctly, click on the checkbox “Above pinned location is correct”. Your location is taken into Tegola system if (and only if) that checkbox is ticked. You can leave the checkbox unticked if you don’t wish to add your location to your profile.
 
@@ -76,7 +76,7 @@ Story time! You are given 5000 characters to describe all about you, your talent
 
 This is the space for your uniqueness. You are given with 8 slots to mention special facts about you, with 80 characters each. After filling, click on the “:material-plus:” button to add it, making the textbox empty for another input.
 
-Click on the “Next” button once you complete this section.
+Click on “Next” once you complete this section.
 
 ## Step 7 - Select the services
 
@@ -88,10 +88,7 @@ If all goes well, you will see a “CONGRATULATIONS” page. To login, click on 
 
 Insert your account credentials and click the “Sign in” button. Voila, you're in! :tada:
 
-
-You just created your profile. But that’s just the beginning of the journey. Complete your account by adding profile and cover pictures, the cover statement, profile description and any special facts.
-
-You can also add awards and your projects to your profile.
+You just created your profile. But this is just the beginning of the journey. Complete your account by adding profile and cover pictures, the cover statement, profile description and any special facts. You can also add awards and your projects to your profile.
 
 [Click here](/completing-profiles/features) for more information on completing your account. Feel free to contact us on social media for further assistance.
 
