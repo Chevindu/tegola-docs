@@ -11,6 +11,7 @@ copyright: '&copy; 2021 Heavenz Technologies'
 docs_dir: 'docs_sample'
 theme:
   name: 'material'
+  custom_dir: 'theme_overrides/'
   language: 'en'
   shortcuts:
     help: 191    # ?
@@ -58,8 +59,10 @@ extra_css:
 extra:
   manifest: 'manifest.json'
   social:
-    - icon: 'fontawesome/brands/github-alt'
-      link: 'https://github.com/heavenz'
+    - icon: 'fontawesome/brands/facebook'
+      link: 'https://facebook.com/heavenz.lk'
+    - icon: 'fontawesome/brands/instagram'
+      link: 'https://instagram.com/heavenz.lk'
     - icon: 'fontawesome/brands/twitter'
       link: 'https://twitter.com/HeavenzLK'
 

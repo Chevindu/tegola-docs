@@ -20,10 +20,10 @@ Click “Next” to continue.
 
 ## Step 3 - Personal details
 
-Fill out all the fields with your details. Password length should be more than 6 characters. Once you are done, click on “Verify Email”. This action sends a 4 digit number to the given email address. Now check your your inbox for an email from us, remember the 4 digit number and type it in the pop up window.
+Fill out all the fields with your details. Password length should be more than 6 characters. Once you are done, click on “Verify Email”. This action sends a 4 digit number to the given email address. Now check your your inbox for an email from us, remember the 4 digit number in it and use it in the pop up window.
 
 !!! info
-    If you don't see an email from us in your inbox, kindly check in the spam folder. If you are using Gmail, it might have landed on the "Social" or "Promotions" tabs as well. If you still couldn’t find the email, try clicking “Resend verification code” in the pop up window. Feel free to contact us on social media for further assistance.
+    If you don't see an email from us in your inbox, kindly check in the spam folder. If you are using Gmail, it might have landed on the "Social" or "Promotions" tabs as well. If you still couldn’t find the email, try clicking “Resend verification code” in the pop up window.
 
 If everything is fine, click on the “Verify Email” button. You’ll see a check mark (:material-check:) in front of your email address, if your email is verified.
 
@@ -93,6 +93,6 @@ You just created your profile. But that’s just the beginning of the journey. C
 
 You can also add awards and your projects to your profile.
 
-[Click here](/completing-profiles/features) for more information on completing your account.
+[Click here](/completing-profiles/features) for more information on completing your account. Feel free to contact us on social media for further assistance.
 
 Good luck on your future career with Tegola.lk!
