@@ -73,15 +73,15 @@ nav:
   - 'FAQ': 'frequently-asked-questions.md'
   - 'Creating Accounts':
     - 'Account Types': 'creating-accounts/account-types.md'
-    - 'Create Professional Accounts': 'creating-accounts/professional.md'
-    - 'Create Company Accounts': 'creating-accounts/company.md'
-    - 'Create Individual Accounts': 'creating-accounts/individual.md'
-    - 'Create Fresh Graduate Accounts': 'creating-accounts/fresh-graduate.md'
-    - 'Create Undergraduate Accounts': 'creating-accounts/undergraduate.md'
+    - 'Creating Professional Accounts': 'creating-accounts/professional.md'
+    - 'Creating Company Accounts': 'creating-accounts/company.md'
+    - 'Creating Individual Accounts': 'creating-accounts/individual.md'
+    - 'Creating Fresh Graduate Accounts': 'creating-accounts/fresh-graduate.md'
+    - 'Creating Undergraduate Accounts': 'creating-accounts/undergraduate.md'
   - 'Completing Profiles':
-    - 'Features': 'completing-profiles/features.md'
+    - 'Features in Your Account': 'completing-profiles/features.md'
   - 'Search Results':
-    - 'Find a match': 'search-results/find-a-match.md'
+    - 'Finding a Match': 'search-results/finding-a-match.md'
   - 'Company Accounts':
     - 'Paid Membership': 'company-accounts/paid-membership.md'
     - 'Features': 'company-accounts/features.md'

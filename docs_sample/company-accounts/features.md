@@ -68,4 +68,4 @@ Apprentice
 For our Luxury account holders, A Luxury badge will be added to their profile in search results. This unique additional feature will help to take the attention of clients at a glance.
 Luxury Badge
 
-[Our Plans](https://tegola.lk/company-pricing)
+[Our Plans](https://tegola.lk/company-pricing){ target=_blank }

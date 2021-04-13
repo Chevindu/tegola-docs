@@ -17,4 +17,4 @@ As a wise man once said,
     
     ~ Jim Stengel
 
-[Our Plans](https://tegola.lk/company-pricing)
+[Our Plans](https://tegola.lk/company-pricing){ target=_blank }

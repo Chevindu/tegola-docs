@@ -1,4 +1,4 @@
-# Find a match
+# Finding a match
 
 Great you made it this far. You got to know about Tegola.lk somewhere and you made the commitment and came to this page. Now you are going to build your dream project and you want to find genuine and trustworthy service providers(SPs) for your project. Yes! You have come to the right place. This article will guide you to find the best SPs for your project.
 

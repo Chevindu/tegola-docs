@@ -12,7 +12,7 @@ Sign up :material-arrow-right-bold-outline: Create a service Provider Account :m
 
 ## Step 2 - Select a plan
 
-First, select a plan which suits your company the best. [Click here](https://tegola.lk/company-pricing) for a detailed comparison of each plan. We provide both free and paid account plans. You may choose as you wish.
+First, select a plan which suits your company the best. [Click here](https://tegola.lk/company-pricing){ target=_blank } for a detailed comparison of each plan. We provide both free and paid account plans. You may choose as you wish.
 
 For paid accounts, payment can be made through Visa or Master cards at the final step in creating the account.
 
