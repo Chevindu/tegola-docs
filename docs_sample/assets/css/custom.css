@@ -7,6 +7,47 @@
     --md-accent-fg-color--dark: #c47f00;
 }
 
+.md-typeset h1 {
+    font-weight: 500;
+}
+
+.md-typeset h4+dl, .md-typeset dd {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.md-typeset dd>p {
+    margin-top: 0;
+}
+
+.md-typeset h2::after {
+    content: '';
+    background-color: var(--md-primary-fg-color--dark);
+    display: block;
+    width: 50px;
+    height: 5px;
+    margin-top: 5px;
+    opacity: 0.5;
+}
+
+.md-typeset h3::after {
+    content: '';
+    background-color: var(--md-accent-fg-color--dark);
+    display: block;
+    width: 50px;
+    height: 2px;
+    margin-top: 5px;
+    opacity: 0.5;
+}
+
+.md-typeset .admonition {
+    font-size: 0.8rem;
+}
+
+.md-typeset .admonition .admonition-title{
+    font-size: 0.64rem;
+}
+
 .md-header__button.md-logo img, .md-header__button.md-logo svg {
     width: unset;
 }
@@ -16,7 +57,7 @@
     height: 2rem;
 }
 
-#collapsible-ul, #collapsible-ul > li:first-child {
+#collapsible-ul, #collapsible-ul>li:first-child {
     list-style-type: none;
 }
 

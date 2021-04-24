@@ -1,5 +1,7 @@
+![Tegola.lk Logo](/images/logo-colored.svg){: .body-img .body-img-mid loading=lazy }
+
 <h1 style="text-align: center;">
-<br>Tegola.lk<br>Complete User Guide
+Complete User Guide
 </h1>
 
 Tegola.lk is an online platform ventured and run by Sri Lankans. We bring construction service providers and seekers into one stage so both the parties can save time, evaluate market prices and pick the best service provider). Aim of this initiative is to regulate the communications in the construction industry by building a virtual society that everyone can be benefited from.

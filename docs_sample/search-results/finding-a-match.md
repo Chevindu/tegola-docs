@@ -34,45 +34,66 @@ In the filtering panel there are 2 major tabs named “Profiles” and “Projec
 
 #### Location
 
-Select your location to filter SPs by your location. Search results will show you SPs who are nearby to your city or the district.
+:   Select your location to filter SPs by your location. Search results will show you SPs who are nearby to your city or the district.
 
 #### Experience (Years)
 
-Use the slider to select a year, and you will receive profile results that indicate a higher experience level than your selection. To be clear if you select No.4, then you’ll get SPs who have at least 4 years of experience in their profession.
+:   Use the slider to select a year, and you will receive profile results that indicate a higher experience level than your selection. To be clear if you select No.4, then you’ll get SPs who have at least 4 years of experience in their profession.
 
-!!! example
-    if you select "4", you will get SPs who are indicating at least 4 years of experience in their profile.
+    !!! example
 
+        if you select "4", you will get SPs who are indicating at least 4 years of experience in their profile.
 
 #### Select SPs
 
-Let's assume you see “Professional” and “Company” in here. It means there are industry professionals and companies who provide that service. If you prefer to go with professionals only, check (:material-check:) on “Professional”. You can check on “Company” to get company-only profiles in search results.
+:   Let's assume you see “Professional” and “Company” in here. It means there are industry professionals and companies who provide that service. If you prefer to go with professionals only, check (:material-check:) on “Professional”. You can check on “Company” to get company-only profiles in search results.
 
 #### Services
 
-This breaks down the service category you selected in the dropdown menu into sub-services. By selecting one sub service, the system gives you all the SPs who provide that sub service. This helps you to find SPs who provide the exact service you are looking for.
+:   This breaks down the service category you selected in the dropdown menu into sub-services. By selecting one sub service, the system gives you all the SPs who provide that sub service. This helps you to find SPs who provide the exact service you are looking for.
 
 #### Languages
 
-This option filters the search results by languages of SP.
+:   This option filters the search results by languages of SP.
 
 ### Projects tab
 
 #### Location
-Use this to filter projects by location. This helps you to find SPs who have already completed projects in your region.
-        
+
+:   Use this to filter projects by location. This helps you to find SPs who have already completed projects in your region.
+
 #### Duration
-Use 5 sliders to filter projects according to their project duration. You’ll get projects which are completed prior to a selected time duration.
+
+:   Use 5 sliders to filter projects according to their project duration. You’ll get projects which are completed prior to a selected time duration.
 
 #### Select SPs
-You can filter projects by the SP account type. Suppose you see “Company” and “Individual” in here, and you check the “Company” checkbox. Then you will get only the projects published by Company accounts.
+
+:   You can filter projects by the SP account type. Suppose you see “Company” and “Individual” in here, and you check the “Company” checkbox. Then you will get only the projects published by Company accounts.
 
 #### Cost range
-You can filter projects by their cost. Here you can enter values with K, M or B suffixes (Eg: 200K, 50M). Then you’ll get projects with that cost range. But there might be projects which were added with an unspecified budget. Those projects won’t be visible here.
+
+:   You can filter projects by their cost. Here you can enter values with K, M or B suffixes (Eg: 200K, 50M). Then you’ll get projects with that cost range. But there might be projects which were added with an unspecified budget. Those projects won’t be visible here.
 
 #### Languages
-This filters projects by the language their SP speaks.
 
----
+:   This filters projects by the language their SP speaks.
 
-In desktop view, hover over on a profile tile and click on the profile pic (or “See more...”) to view the profile. In mobile view, simply click on “See more...” to view their profile.
+### Step 4 - Compare profiles
+
+You learned how to use the filtering settings to filter profiles or projects according to your preference. Now let’s dive deep into comparing the profiles.
+
+!!! info ""
+
+    You can view a profile by hovering the cursor on a profile tile and clicking on the profile picture (or the “See more...” button). In mobile view, simply clicking on the “See more...”.
+
+In the projects filter, click on a project and then click “View Profile” button at the bottom right corner of the pop up window. In mobile view, click on a project and then click on the “View Profile” button at the bottom to open the profile.
+
+!!! tip
+
+    You can use the landscape view in mobile to view the full size images of a project.
+
+Once you visit a profile, “Overview” tab gives you an overall idea about their experience, capacity, talent, and many more. You can also visit the “Projects” tab to see their previous projects. Compare between several profiles and pick a best fit. 
+
+The choice is 100% yours :slightly_smiling_face:
+
+That’s it for now. We wish you all the success in your projects!

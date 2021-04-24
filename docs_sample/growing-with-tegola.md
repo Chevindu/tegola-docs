@@ -1,6 +1,6 @@
 ## How to grow your business with Tegola
 
-Tegola.lk is a service based online platform dedicated to local construction and home industry. Companies who cater to our local construction industry providing any [related services](/creating-accounts/account-types#company), are eligible to create and maintain a profile in Tegola. Hence you will be exposed to huge potential audience who seeks for service providers like you :)
+Tegola.lk is a service based online platform dedicated to local construction and home industry. Companies who cater to our local construction industry providing any [related services](/creating-accounts/account-types#company), are eligible to create and maintain a profile in Tegola. Hence you will be exposed to huge potential audience who seeks for service providers like you :slightly_smiling_face:
 
 The top gain you'll have by maintaining a profile in Tegola.lk is that you will be found by people when they are in need. You know that's what should be the scenario in Construction industry. ([Learn more on paid memberships](/company-accounts/paid-membership))
 
@@ -34,7 +34,7 @@ Always keep updating your recent works in your profile. Add your recent projects
 
 ## Sooner The Better
 
-Finally the day you create your profile matters in Tegola.lk. In our continuously developing search results algorithm depends on tons of factors. The age of your profile is one of them. So make sure you create your profile as soon as possible. Bhalagiri will not be your friend in Tegola :)
+Finally the day you create your profile matters in Tegola.lk. In our continuously developing search results algorithm depends on tons of factors. The age of your profile is one of them. So make sure you create your profile as soon as possible. Bhalagiri will not be your friend in Tegola :slightly_smiling_face:
 
 That's it. We wish you all the best for your business career with Tegola.lk
 
