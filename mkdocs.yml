@@ -35,6 +35,7 @@ markdown_extensions:
   - codehilite
   - footnotes
   - attr_list
+  - def_list
   - mdx_math:
       enable_dollar_delimiter: true
   - toc:
