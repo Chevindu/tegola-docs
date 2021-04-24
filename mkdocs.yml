@@ -61,11 +61,11 @@ extra:
   manifest: 'manifest.json'
   social:
     - icon: 'fontawesome/brands/facebook'
-      link: 'https://facebook.com/heavenz.lk'
+      link: 'https://facebook.com/tegola.lk'
     - icon: 'fontawesome/brands/instagram'
-      link: 'https://instagram.com/heavenz.lk'
-    - icon: 'fontawesome/brands/twitter'
-      link: 'https://twitter.com/HeavenzLK'
+      link: 'https://instagram.com/tegola.lk'
+    - icon: 'fontawesome/brands/linkedin'
+      link: 'https://linkedin.com/company/tegolalk'
 
 # Page tree
 nav:
