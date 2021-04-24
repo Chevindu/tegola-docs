@@ -1,11 +1,16 @@
 # Project information
 site_name: 'Tegola User Guide'
-site_description: 'MkDocs Material Boilerplate (Starter Kit) - Deploy documentation to hosting platforms (Netlify, GitHub Pages, GitLab Pages, and AWS Amplify Console) with Docker, pipenv, and GitHub Actions.'
-site_author: 'peaceiris'
+site_description: 'A knowledgebase of everything related to Tegola.lk online platform.'
+site_author: 'heavenz'
 site_url: 'https://docs.tegola.lk/'
 
+google_analytics:
+  - 270083875
+  - auto
+
+
 # Copyright
-copyright: '&copy; 2021 Heavenz Technologies'
+copyright: '&copy; 2021 Heavenz Technologies Private Limited'
 
 # Configuration
 docs_dir: 'docs_sample'
