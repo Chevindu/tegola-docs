@@ -1,4 +1,4 @@
-# What are these features in our plans?
+# What are the features listed in company plans?
 
 ## Categories
 
