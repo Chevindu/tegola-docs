@@ -34,4 +34,4 @@ You can use both Visa and Master cards to make payments. PayHere is used as our 
 
 Currently we offer only monthly and yearly subscription plans for paid accounts. These subscriptions are valid for a minimum of two years without a renewal. But after that period you may have to resubscribe to experience our upgraded features.
 
-
+<script type="application/ld+json">{"@context":"https://schema.org", "@type":"FAQPage", "mainEntity":[{"@type":"Question", "name":"Do I have to pay to create a profile in Tegola?", "acceptedAnswer":{"@type":"Answer", "text":"If you are an industry professional, Individual, fresh graduate or an undergraduate you can maintain your profile free of charge in Tegola.lk. Currently we only offer paid accounts for companies. Even for company accounts, we have a free plan for startups and small scale businesses."}}, {"@type":"Question", "name":"What are the available payment methods to create a company account?", "acceptedAnswer":{"@type":"Answer", "text":"You can use both Visa and Master cards to make payments. PayHere is used as our payment gateway, which is a Central Bank approved payment method to process online payments."}}]}</script>
