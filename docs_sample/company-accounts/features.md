@@ -4,7 +4,7 @@
 
 Categories are the next selection you have to make after pricing plans. You must select at least one category to continue into next step. The number of categories allowed to select is depending on your current plan. In our homepage the services in dropdown menus represents these categories. And almost of all these categories are divided into subcategories to select the exact services you serve.
 
-![Categories](/images/features-1.png){: .body-img .body-img-wide loading=lazy }
+![Categories](/images/features-1.png){: .body-img .ds .body-img-wide loading=lazy }
 
 ## Publish Projects
 
@@ -22,7 +22,7 @@ You can add several images to each project. So that potential clients can open y
 
 Adding awards to your company profile shows clients not only your professionalism but also they tends to trust about your services. But always you need to be genuine not to publish fake awards to attract customers which would eventually reduce the ranking of your profile.
 
-![Awards](/images/features-3.png){: .body-img .body-img-wide loading=lazy }
+![Awards](/images/features-3.png){: .body-img .ds .body-img-wide loading=lazy }
 
 You can add or remove awards after login into your account.
 
@@ -30,7 +30,7 @@ You can add or remove awards after login into your account.
 
 You can add your company certifications into your profile. Let your clients see that you are a serious service provider who follows industry standards.
 
-![Company Certifications](/images/features-4.png){: .body-img .body-img-wide loading=lazy }
+![Company Certifications](/images/features-4.png){: .body-img .ds .body-img-wide loading=lazy }
 
 Once you add certifications when creating profile, you can add or remove them whenever you login to your profile.
 
@@ -38,7 +38,7 @@ Once you add certifications when creating profile, you can add or remove them wh
 
 Featured images are the players which attracts clients into your profile. These images are the first unique images your clients see when they search through a category.
 
-![Featured Images](/images/features-5.png){: .body-img .body-img-mid loading=lazy }
+![Featured Images](/images/features-5.png){: .body-img .ds .body-img-mid loading=lazy }
 
 ## Custom Share Images
 
@@ -52,19 +52,19 @@ Now you can add your social media links and company website link to your profile
 
 If you have several branches for your company, you can add their locations when you create profile. So when a client searches for service providers in those areas, they'll surely reach you out.
 
-![Branches](/images/features-6.png){: .body-img .body-img-wide loading=lazy }
+![Branches](/images/features-6.png){: .body-img .ds .body-img-wide loading=lazy }
 
 ## Add Google Map location
 
 You can locate your company location in google map. So in mobile, a client can simply open up your company location in google maps. That makes it more easier for them to find your place.
 
-![Add Google Map Location](/images/features-7.png){: .body-img .body-img-wide loading=lazy }
+![Add Google Map Location](/images/features-7.png){: .body-img .ds .body-img-wide loading=lazy }
 
 ## Get Your Profile Saved
 
 Clients can save your profile and projects if they are interested about them. So they can keep them for later references. So once you add a project think twice before delete it. That might have been saved by a client to contact you later.
 
-![Saved Profiles](/images/features-8.png){: .body-img .body-img-mid loading=lazy }
+![Saved Profiles](/images/features-8.png){: .body-img .ds .body-img-mid loading=lazy }
 
 ## Apprentice
 
@@ -76,6 +76,6 @@ For some selected categories our account holders are able to outsource their wor
 
 For our Luxury account holders, A Luxury badge will be added to their profile in search results. This unique additional feature will help to take the attention of clients at a glance.
 
-![Luxury Badge](/images/features-10.png){: .body-img .body-img-mid loading=lazy }
+![Luxury Badge](/images/features-10.png){: .body-img .ds .body-img-mid loading=lazy }
 
 [Our Plans](https://tegola.lk/company-pricing){ target=_blank }

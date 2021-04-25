@@ -118,3 +118,7 @@ img.body-img-mid {
 img.body-img-wide {
     max-width: 600px;
 }
+
+img.ds {
+    filter: drop-shadow(2px 4px 10px #808080);
+}
