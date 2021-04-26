@@ -23,6 +23,8 @@ Designing and Remodeling
 
 Members of Sri Lanka Institute of Architects (SLIA), Sri Lanka Institute of Landscape Architects (SLILA), Sri Lanka Institute of Interior Designers (SLIID), The Institution of Engineers, Sri Lanka (IESL) and Institute of Quantity Surveyors of Sri Lanka (IQSSL) are encouraged to create accounts under this category. However, if you are not a member of any of the aforementioned institutions but have a similar level of expertise and industrial experience, you may create a Professional account.
 
+[Click here](/creating-accounts/professional) for a step-by-step guide on creating a Professional account.
+
 ## Company
 
 Any Sri Lanka based company that serves in construction & home industry can create Tegola accounts, given that it provides services under one or more categories listed below.
@@ -1257,6 +1259,8 @@ Any Sri Lanka based company that serves in construction & home industry can crea
   </li>
 </ul>
 
+[Click here](/creating-accounts/company) for a step-by-step guide on creating a Company account.
+
 ## Individual
 
 Talented individuals who provide construction industry related services fall under this account type.
@@ -1924,6 +1928,8 @@ Talented individuals who provide construction industry related services fall und
   </li>
 </ul>
 
+[Click here](/creating-accounts/individual) for a step-by-step guide on creating a Individual account.
+
 ## Fresh Graduate
 
 Freshly passed out graduates, majored in following fields can create accounts under this account type.
@@ -1956,6 +1962,8 @@ A Fresh Graduate account is not publicly visible and they can be only accessed b
 * Mechanical Ventilation and Air Conditioning
 * Electrical Installations 
 
+[Click here](/creating-accounts/fresh-graduate) for a step-by-step guide on creating a Fresh Graduate account.
+
 ## Undergraduate
 
 Undergraduates who are following a degree awarding course under following fields can create Tegola accounts of this type.
@@ -1985,3 +1993,5 @@ An undergraduate account is not publicly visible and they can be only accessed b
 * PEB & Steel Buildings
 * Mechanical Ventilation and Air Conditioning
 * Electrical Installations
+
+[Click here](/creating-accounts/undergraduate) for a step-by-step guide on creating a Undergraduate account.
