@@ -8,7 +8,7 @@ Tegola.lk is an online platform ventured and run by Sri Lankans. We bring constr
 
 ## Our mission
 
-We create an maintain a smart, simple and attractive web platform which enables all the professionals, companies, individuals, fresh graduates and undergraduates who relates to construction industry to create profiles giving exposure to their talent and creativity.
+We create and maintain a smart, simple and attractive web platform which enables all the professionals, companies, individuals, fresh graduates and undergraduates who relates to construction industry to create profiles giving exposure to their talent and creativity.
 
 ## Our vision
 
