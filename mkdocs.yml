@@ -33,6 +33,7 @@ theme:
     #code: 'Ubuntu Mono'
   logo: 'images/logo.svg'
   favicon: 'assets/images/favicon.ico'
+  image: 'assets/images/tegola_og_image.jpg'
 
 # Extensions
 markdown_extensions:
