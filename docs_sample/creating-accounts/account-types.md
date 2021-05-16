@@ -13,7 +13,7 @@ There are 5 main types of accounts.
 ## Professional
 
 This type is for professional experts who are registered members in a government recognized association. They can create Tegola accounts. The fields that are supported are as follows.
-Designing and Remodeling
+Start Building
 
 * Architecting
 * Interior Designing
@@ -29,7 +29,7 @@ Members of Sri Lanka Institute of Architects (SLIA), Sri Lanka Institute of Land
 
 Any Sri Lanka based company that serves in construction & home industry can create Tegola accounts, given that it provides services under one or more categories listed below.
 
-### Designing and Remodeling
+### Start Building
 
 <ul class="profiles-list">
   <li>
@@ -365,7 +365,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
   </li>
 </ul>
 
-### Home Improvement
+### Make Improvements
 
 <ul class="profiles-list">
   <li>
@@ -1012,7 +1012,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
 
 </ul>
 
-### Home Services
+### Keep Maintaining
 
 <ul class="profiles-list">
   <li>Air conditioning repair</li>
@@ -1265,7 +1265,7 @@ Any Sri Lanka based company that serves in construction & home industry can crea
 
 Talented individuals who provide construction industry related services fall under this account type.
 
-### Designing and Remodeling
+### Start Building
 
 <ul class="profiles-list">
   <li>
@@ -1428,7 +1428,7 @@ Talented individuals who provide construction industry related services fall und
   </li>
 </ul>
 
-### Home Improvement
+### Make Improvements
 
 <ul class="profiles-list">
   <li>
@@ -1697,7 +1697,7 @@ Talented individuals who provide construction industry related services fall und
   </li>
 </ul>
 
-### Home Services
+### Keep Maintaining
 
 <ul class="profiles-list">
   <li>Air conditioning repair</li>
@@ -1934,7 +1934,7 @@ Talented individuals who provide construction industry related services fall und
 
 Freshly passed out graduates, majored in following fields can create accounts under this account type.
 
-### Designing and Remodeling
+### Start Building
 
 * Architecting
 * Interior Designing

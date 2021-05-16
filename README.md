@@ -27,12 +27,12 @@ Anyone who seeks for a construction industry related service is benefited by the
 
 We bring our services under three main categories:
 
-1. Design and Remodeling
-2. Home Improvement
-3. Home Services
+1. Start Building
+2. Make Improvements
+3. Keep Maintaining
 
-Design and Remodeling category includes all the services you will need to design and construct a new building.
+Start Building category includes all the services you will need to design and construct a new building.
 
-Home Improvement section includes services which will help you to improve your home, office, restaurant or any other place.
+Make Improvements section includes services which will help you to improve your home, office, restaurant or any other place.
 
-Home Services category includes services provided by individuals such as carpenters, masons, technicians etc.
+Keep Maintaining category includes services provided by individuals such as carpenters, masons, technicians etc.

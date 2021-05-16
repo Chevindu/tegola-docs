@@ -18,9 +18,9 @@ Any of your saved profiles or projects will appear in the “Favorite” tab. Fi
 
 All the services in Tegola.lk are divided into 3 major categories
 
-* Design and Remodeling: Services you need to start your projects
-* Home Improvement:  Services you need to make improvements to your project
-* Home Services: Services you need to keep maintaining your project
+* Start Building: Services you need to start your projects
+* Make Improvements:  Services you need to make improvements to your project
+* Keep Maintaining: Services you need to keep maintaining your project
 
 According to your target, click on one of the three categories. Then, select the services you wish to find an SP for.
 
