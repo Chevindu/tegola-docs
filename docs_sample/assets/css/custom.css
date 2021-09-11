@@ -5,6 +5,7 @@
     --md-accent-fg-color: #ffa500;
     --md-accent-fg-color--light: #ffb836;
     --md-accent-fg-color--dark: #c47f00;
+    --teg-chartered-bg: #ffcc00;
 }
 
 .md-typeset h1 {
@@ -44,7 +45,7 @@
     font-size: 0.8rem;
 }
 
-.md-typeset .admonition .admonition-title{
+.md-typeset .admonition .admonition-title {
     font-size: 0.64rem;
 }
 
@@ -121,4 +122,12 @@ img.body-img-wide {
 
 img.ds {
     filter: drop-shadow(2px 4px 10px #808080);
+}
+
+.chartered-tag {
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: smaller;
+    white-space: nowrap;
+    background-color: var(--teg-chartered-bg);
 }

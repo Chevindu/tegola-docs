@@ -87,8 +87,10 @@ nav:
     - 'Creating Undergraduate Accounts': 'creating-accounts/undergraduate.md'
   - 'Completing Profiles':
     - 'Features in Your Account': 'completing-profiles/features.md'
+    - 'Applying for Chartered badge': 'completing-profiles/applying-for-chartered-badge.md'
   - 'Search Results':
     - 'Finding a Match': 'search-results/finding-a-match.md'
+    - 'Chartered Architect badge': 'search-results/chartered-architect-badge.md'
   - 'Company Accounts':
     - 'Paid Membership': 'company-accounts/paid-membership.md'
     - 'Features': 'company-accounts/features.md'
